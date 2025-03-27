@@ -1,6 +1,6 @@
 # dmt-bitcoin  
 
-☄️ A collection of ₿itcoins forged from Digital Matter Theory (DMT) ☄️
+☄️ A collection of ₿itcoins forged from Digital Matter ☄️
 
 ## basics
 
