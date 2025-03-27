@@ -50,13 +50,13 @@ on-chain [ordinal inscriptions](https://ordinals.com):
 
 ⌽ [dmt-bitcoin-111](https://ordinals.com/inscription/79fba8825654ff5cc64e3783cde119151a8c96d9995a3c9a912eb2cb3de779e4i11)  
 
-## mints
+## dmt-mint / launch block
 
-UNATs minting on [mscribe.io](https://mscribe.io/nats?t=latest):
+dmt-bitcoin minting on [mscribe.io](https://mscribe.io/nats?t=latest):
 
-🟠 [dmt-bitcoin-0](https://mscribe.io/nats/)  
+🟠 [dmt-bitcoin-0](https://mscribe.io/nats/)  🟧 block 890000 🟧  
 
-🟠 [dmt-bitcoin-00](https://mscribe.io/nats/)  
+🟠 [dmt-bitcoin-00](https://mscribe.io/nats/)  🟧 block 890000 🟧  
 
 🟠 [dmt-bitcoin-01](https://mscribe.io/nats/)  
 
