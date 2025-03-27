@@ -4,12 +4,12 @@
 
 ## basics
 
-👉 **dmt-bitcoins** are ... [ordinal inscriptions](https://docs.ordinals.com/) on ₿itcoin  
-👉 **dmt-bitcoins** are ... on-chain claims to Bitcoin block data using the [tap protocol](https://github.com/Trac-Systems/tap-protocol-specs)  
-👉 **dmt-bitcoins** are ... indexed by the [trac network](https://trac.network)  
-👉 **dmt-bitcoins** are ... derived from Digital Matter Theory [DMT](https://digital-matter-theory.gitbook.io/digital-matter-theory)  
-👉 **dmt-bitcoins** are ... generated when certain ₿itcoin blocks are mined based on their 'bits' field as a hexadecimal  
-👉 **dmt-bitcoins** are ... available to mint on [mscribe.io](https://mscribe.io/nats?t=latest)  
+👉 **dmt-bitcoins** ... are ... [ordinal inscriptions](https://docs.ordinals.com/) on ₿itcoin  
+👉 **dmt-bitcoins** ... are ... on-chain claims to Bitcoin block data using the [tap protocol](https://github.com/Trac-Systems/tap-protocol-specs)  
+👉 **dmt-bitcoins** ... are ... indexed by the [trac network](https://trac.network)  
+👉 **dmt-bitcoins** ... are ... derived from Digital Matter Theory [DMT](https://digital-matter-theory.gitbook.io/digital-matter-theory)  
+👉 **dmt-bitcoins** ... are ... generated when certain ₿itcoin blocks are mined based on their 'bits' field as a hexadecimal  
+👉 **dmt-bitcoins** ... are ... available to mint on [mscribe.io](https://mscribe.io/nats?t=latest)  
 
 ## stats
 
