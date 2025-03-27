@@ -79,11 +79,11 @@ the [dmt-bitcoin dune dashboard](https://dune.com/bitgnat/dmt-bitcoin) is update
 
 ☄️ [dmt-bitcoin-111](https://mscribe.io/nats/)  
 
-## collection image
+## collection  
+
+project image:
 
 ![dmt-bitcoin](pngs/000.png)
-
-## collection gifs
 
 ## dmt-bitcoin-0  
 
