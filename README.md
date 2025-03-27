@@ -87,7 +87,7 @@ project image:
 
 ## dmt-bitcoin-0  
 
-bits hex pattern: `0`  
+₿itcoin block bits hex pattern: `0`  
 DMT element: `bitnats.0.11.element`  
 rarity spectrum: `abundant`  
 
@@ -95,7 +95,7 @@ rarity spectrum: `abundant`
 
 ## dmt-bitcoin-00  
 
-bits hex pattern : `00`  
+₿itcoin block bits hex pattern : `00`  
 DMT element: `bitnat00.00.11.element`  
 rarity spectrum: `popular`  
 
@@ -103,7 +103,7 @@ rarity spectrum: `popular`
 
 ## dmt-bitcoin-01  
 
-bits hex pattern : `01`  
+₿itcoin block bits hex pattern : `01`  
 DMT element: `matter.01.11.element`  
 rarity spectrum: `infrequent`  
 
@@ -111,7 +111,7 @@ rarity spectrum: `infrequent`
 
 ## dmt-bitcoin-1  
 
-bits hex pattern : `1`  
+₿itcoin block bits hex pattern : `1`  
 DMT element: `bitnat1.1.11.element`  
 rarity spectrum: `common`  
 
@@ -119,7 +119,7 @@ rarity spectrum: `common`
 
 ## dmt-bitcoin-10  
 
-bits hex pattern : `10`  
+₿itcoin block bits hex pattern : `10`  
 DMT element: `bitnat10.10.11.element`  
 rarity spectrum: `scarce`  
 
@@ -127,7 +127,7 @@ rarity spectrum: `scarce`
 
 ## dmt-bitcoin-11  
 
-bits hex pattern : `11`  
+₿itcoin block bits hex pattern : `11`  
 DMT element: `Eleven.11.11.element`  
 rarity spectrum: `scarce`  
 
@@ -135,7 +135,7 @@ rarity spectrum: `scarce`
 
 ## dmt-bitcoin-010  
 
-bits hex pattern : `010`  
+₿itcoin block bits hex pattern : `010`  
 DMT element: `ᘛ⁐̤ᕐᐷ.010.11.element`  
 rarity spectrum: `limited`  
 
@@ -143,7 +143,7 @@ rarity spectrum: `limited`
 
 ## dmt-bitcoin-011  
 
-bits hex pattern : `011`  
+₿itcoin block bits hex pattern : `011`  
 DMT element: `bitnat011.011.11.element`  
 rarity spectrum: `limited`  
 
@@ -151,7 +151,7 @@ rarity spectrum: `limited`
 
 ## dmt-bitcoin-100  
 
-bits hex pattern : `100`  
+₿itcoin block bits hex pattern : `100`  
 DMT element: `100.100.11.element`  
 rarity spectrum: `limited`  
 
@@ -159,7 +159,7 @@ rarity spectrum: `limited`
 
 ## dmt-bitcoin-101  
 
-bits hex pattern : `101`  
+₿itcoin block bits hex pattern : `101`  
 DMT element: `lol.101.11.element`  
 rarity spectrum: `rare`  
 
@@ -167,7 +167,7 @@ rarity spectrum: `rare`
 
 ## dmt-bitcoin-110  
 
-bits hex pattern : `110`  
+₿itcoin block bits hex pattern : `110`  
 DMT element: `bitnat110.110.11.element`  
 rarity spectrum: `rare`  
 
@@ -175,7 +175,7 @@ rarity spectrum: `rare`
 
 ## dmt-bitcoin-111  
 
-bits hex pattern : `111`  
+₿itcoin block bits hex pattern : `111`  
 rarity spectrum: `rare`  
 
 ![dmt-bitcoin-111](images/)
