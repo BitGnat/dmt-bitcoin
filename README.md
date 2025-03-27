@@ -25,7 +25,7 @@ the [dmt-bitcoin dune dashboard](https://dune.com/bitgnat/dmt-bitcoin) is update
 
 ## on-chain art
 
-[ordinal inscriptions](https://ordinals.com):
+[ordinal inscriptions](https://ordinals.com)
 
 ⦿ [dmt-bitcoin-0](https://ordinals.com/inscription/79fba8825654ff5cc64e3783cde119151a8c96d9995a3c9a912eb2cb3de779e4i0)  
 
