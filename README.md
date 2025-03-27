@@ -13,7 +13,7 @@ A collection of Bitcoins born from Digital Matter Theory (DMT)
 
 ## stats
 
-the dmt-bitcoin [dune dashboard](https://dune.com/bitgnat/dmt-bitcoin) is updated daily 11:30 UTC and provides the following stats:  
+the [dmt-bitcoin dune dashboard](https://dune.com/bitgnat/dmt-bitcoin) is updated daily 11:30 UTC and provides the following stats:  
 
 📙 **Spectrum**: rarity classification for dmt-bitcoin  
 📙 **Supply**: dynamic supply of each dmt-bitcoin, which may or may not generate based on block data bits  
