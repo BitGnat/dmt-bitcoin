@@ -85,7 +85,8 @@ the [dmt-bitcoin dune dashboard](https://dune.com/bitgnat/dmt-bitcoin) is update
 
 ## collection gifs
 
-`dmt-bitcoin-0`    
+## `dmt-bitcoin-0`  
+
 bits hex pattern: `0`  
 DMT element: `bitnats.0.11.element`  
 rarity spectrum: **abundant**  
