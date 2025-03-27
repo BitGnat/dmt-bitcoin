@@ -1,6 +1,6 @@
 # dmt-bitcoin  
 
-☄️ A collection of ₿itcoins forged from Digital Matter ☄️
+🚀 A collection of ₿itcoins forged from Digital Matter 🚀
 
 ## basics
 
@@ -55,29 +55,29 @@ the [dmt-bitcoin dune dashboard](https://dune.com/bitgnat/dmt-bitcoin) is update
 
 [mint at mscribe.io/nats](https://mscribe.io/nats?t=latest)
 
-☄️ [dmt-bitcoin-0](https://mscribe.io/nats/)  
+🚀 [dmt-bitcoin-0](https://mscribe.io/nats/)  
 
-☄️ [dmt-bitcoin-00](https://mscribe.io/nats/)  
+🚀 [dmt-bitcoin-00](https://mscribe.io/nats/)  
 
-☄️ [dmt-bitcoin-01](https://mscribe.io/nats/)  
+🚀 [dmt-bitcoin-01](https://mscribe.io/nats/)  
 
-☄️ [dmt-bitcoin-1](https://mscribe.io/nats/)  
+🚀 [dmt-bitcoin-1](https://mscribe.io/nats/)  
 
-☄️ [dmt-bitcoin-10](https://mscribe.io/nats/)  
+🚀 [dmt-bitcoin-10](https://mscribe.io/nats/)  
 
-☄️ [dmt-bitcoin-11](https://mscribe.io/nats/)  
+🚀 [dmt-bitcoin-11](https://mscribe.io/nats/)  
 
-☄️ [dmt-bitcoin-010](https://mscribe.io/nats/)  
+🚀 [dmt-bitcoin-010](https://mscribe.io/nats/)  
 
-☄️ [dmt-bitcoin-011](https://mscribe.io/nats/)  
+🚀 [dmt-bitcoin-011](https://mscribe.io/nats/)  
 
-☄️ [dmt-bitcoin-100](https://mscribe.io/nats/)  
+🚀 [dmt-bitcoin-100](https://mscribe.io/nats/)  
 
-☄️ [dmt-bitcoin-101](https://mscribe.io/nats/)  
+🚀 [dmt-bitcoin-101](https://mscribe.io/nats/)  
 
-☄️ [dmt-bitcoin-110](https://mscribe.io/nats/)  
+🚀 [dmt-bitcoin-110](https://mscribe.io/nats/)  
 
-☄️ [dmt-bitcoin-111](https://mscribe.io/nats/)  
+🚀 [dmt-bitcoin-111](https://mscribe.io/nats/)  
 
 ## collection  
 
