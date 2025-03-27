@@ -4,25 +4,25 @@ A collection of Bitcoins born from Digital Matter Theory (DMT)
 
 ## basics
 
-👉 dmt-bitcoins are [ordinal inscriptions](https://docs.ordinals.com/) on ₿itcoin  
-👉 dmt-bitcoins are on-chain claims to Bitcoin block data using the [tap protocol](https://github.com/Trac-Systems/tap-protocol-specs)  
-👉 dmt-bitcoins are indexed by the [trac network](https://trac.network)  
-👉 dmt-bitcoins are derived from Digital Matter Theory [DMT](https://digital-matter-theory.gitbook.io/digital-matter-theory)  
-👉 dmt-bitcoins are generated when certain ₿itcoin blocks are mined based on their 'bits' field as a hexadecimal  
-👉 dmt-bitcoins are available to mint on [mscribe.io](https://mscribe.io/nats?t=latest)  
+👉 dmt-bitcoins are ... [ordinal inscriptions](https://docs.ordinals.com/) on ₿itcoin  
+👉 dmt-bitcoins are ... on-chain claims to Bitcoin block data using the [tap protocol](https://github.com/Trac-Systems/tap-protocol-specs)  
+👉 dmt-bitcoins are ... indexed by the [trac network](https://trac.network)  
+👉 dmt-bitcoins are ... derived from Digital Matter Theory [DMT](https://digital-matter-theory.gitbook.io/digital-matter-theory)  
+👉 dmt-bitcoins are ... generated when certain ₿itcoin blocks are mined based on their 'bits' field as a hexadecimal  
+👉 dmt-bitcoins are ... available to mint on [mscribe.io](https://mscribe.io/nats?t=latest)  
 
 ## stats
 
 the [dmt-bitcoin dune dashboard](https://dune.com/bitgnat/dmt-bitcoin) is updated daily 11:30 UTC and provides the following stats:  
 
-📙 **Spectrum**: rarity classification for dmt-bitcoin  
-📙 **Supply**: dynamic supply of each dmt-bitcoin, which may or may not generate based on block data bits  
-📙 **Collection**: expansionary total supply of the dmt-bitcoin collection  
-📙 **Rarity**: dmt-bitcoin rarity as a percent of collection total supply  
-📙 **Expansion**: percentage of blocks that generate a dmt-bitcoin  
-📙 **Growth Rate**: overall rate of expansion for the dmt-bitcoin collection    
+📙 **Spectrum**: ... rarity classifications for dmt-bitcoins  
+📙 **Supply**: ... dynamic supply of each dmt-bitcoin, which may or may not generate based on block data bits  
+📙 **Collection**: ... expansionary total supply of the dmt-bitcoin collection  
+📙 **Rarity**: ... dmt-bitcoin rarity as a percent of collection total supply  
+📙 **Expansion**: ... percentage of blocks that generate a dmt-bitcoin  
+📙 **Growth Rate**: ... overall rate of expansion for the dmt-bitcoin collection    
 
-![dmt-bitcoin-expansionary supply](images/gif/expansion.gif)  
+![dmt-bitcoin-expansionary supply](images/)  
 
 ## Unique Non-Arbitrary Tokens (UNATs)
 
