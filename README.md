@@ -80,7 +80,7 @@ UNATs minting on [mscribe.io](https://mscribe.io/nats?t=latest):
 
 ## collection image
 
-![dmt-bitcoin](images/)
+![dmt-bitcoin](pngs/000.png)
 
 ## collection gifs
 
