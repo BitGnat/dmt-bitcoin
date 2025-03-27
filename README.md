@@ -26,57 +26,57 @@ the [dmt-bitcoin dune dashboard](https://dune.com/bitgnat/dmt-bitcoin) is update
 
 on-chain [ordinal inscriptions](https://ordinals.com):
 
-⌽ [dmt-bitcoin-0](https://ordinals.com/inscription/79fba8825654ff5cc64e3783cde119151a8c96d9995a3c9a912eb2cb3de779e4i0)  
+☄️ [dmt-bitcoin-0](https://ordinals.com/inscription/79fba8825654ff5cc64e3783cde119151a8c96d9995a3c9a912eb2cb3de779e4i0)  
 
-⌽ [dmt-bitcoin-00](https://ordinals.com/inscription/79fba8825654ff5cc64e3783cde119151a8c96d9995a3c9a912eb2cb3de779e4i1)  
+☄️ [dmt-bitcoin-00](https://ordinals.com/inscription/79fba8825654ff5cc64e3783cde119151a8c96d9995a3c9a912eb2cb3de779e4i1)  
 
-⌽ [dmt-bitcoin-01](https://ordinals.com/inscription/79fba8825654ff5cc64e3783cde119151a8c96d9995a3c9a912eb2cb3de779e4i3)  
+☄️ [dmt-bitcoin-01](https://ordinals.com/inscription/79fba8825654ff5cc64e3783cde119151a8c96d9995a3c9a912eb2cb3de779e4i3)  
 
-⌽ [dmt-bitcoin-1](https://ordinals.com/inscription/79fba8825654ff5cc64e3783cde119151a8c96d9995a3c9a912eb2cb3de779e4i2)  
+☄️ [dmt-bitcoin-1](https://ordinals.com/inscription/79fba8825654ff5cc64e3783cde119151a8c96d9995a3c9a912eb2cb3de779e4i2)  
 
-⌽ [dmt-bitcoin-10](https://ordinals.com/inscription/79fba8825654ff5cc64e3783cde119151a8c96d9995a3c9a912eb2cb3de779e4i4)  
+☄️ [dmt-bitcoin-10](https://ordinals.com/inscription/79fba8825654ff5cc64e3783cde119151a8c96d9995a3c9a912eb2cb3de779e4i4)  
 
-⌽ [dmt-bitcoin-11](https://ordinals.com/inscription/79fba8825654ff5cc64e3783cde119151a8c96d9995a3c9a912eb2cb3de779e4i6)  
+☄️ [dmt-bitcoin-11](https://ordinals.com/inscription/79fba8825654ff5cc64e3783cde119151a8c96d9995a3c9a912eb2cb3de779e4i6)  
 
-⌽ [dmt-bitcoin-010](https://ordinals.com/inscription/79fba8825654ff5cc64e3783cde119151a8c96d9995a3c9a912eb2cb3de779e4i5)  
+☄️ [dmt-bitcoin-010](https://ordinals.com/inscription/79fba8825654ff5cc64e3783cde119151a8c96d9995a3c9a912eb2cb3de779e4i5)  
 
-⌽ [dmt-bitcoin-011](https://ordinals.com/inscription/79fba8825654ff5cc64e3783cde119151a8c96d9995a3c9a912eb2cb3de779e4i7)  
+☄️ [dmt-bitcoin-011](https://ordinals.com/inscription/79fba8825654ff5cc64e3783cde119151a8c96d9995a3c9a912eb2cb3de779e4i7)  
 
-⌽ [dmt-bitcoin-100](https://ordinals.com/inscription/79fba8825654ff5cc64e3783cde119151a8c96d9995a3c9a912eb2cb3de779e4i8)  
+☄️ [dmt-bitcoin-100](https://ordinals.com/inscription/79fba8825654ff5cc64e3783cde119151a8c96d9995a3c9a912eb2cb3de779e4i8)  
 
-⌽ [dmt-bitcoin-101](https://ordinals.com/inscription/79fba8825654ff5cc64e3783cde119151a8c96d9995a3c9a912eb2cb3de779e4i9)  
+☄️ [dmt-bitcoin-101](https://ordinals.com/inscription/79fba8825654ff5cc64e3783cde119151a8c96d9995a3c9a912eb2cb3de779e4i9)  
 
-⌽ [dmt-bitcoin-110](https://ordinals.com/inscription/79fba8825654ff5cc64e3783cde119151a8c96d9995a3c9a912eb2cb3de779e4i10)  
+☄️ [dmt-bitcoin-110](https://ordinals.com/inscription/79fba8825654ff5cc64e3783cde119151a8c96d9995a3c9a912eb2cb3de779e4i10)  
 
-⌽ [dmt-bitcoin-111](https://ordinals.com/inscription/79fba8825654ff5cc64e3783cde119151a8c96d9995a3c9a912eb2cb3de779e4i11)  
+☄️ [dmt-bitcoin-111](https://ordinals.com/inscription/79fba8825654ff5cc64e3783cde119151a8c96d9995a3c9a912eb2cb3de779e4i11)  
 
 ## dmt-mint / launch block
 
 dmt-bitcoin minting on [mscribe.io](https://mscribe.io/nats?t=latest):
 
-🟠 [dmt-bitcoin-0](https://mscribe.io/nats/)  🟧 block 890000 🟧  
+☄️ [dmt-bitcoin-0](https://mscribe.io/nats/) /  
 
-🟠 [dmt-bitcoin-00](https://mscribe.io/nats/)  🟧 block 890000 🟧  
+☄️ [dmt-bitcoin-00](https://mscribe.io/nats/) /  
 
-🟠 [dmt-bitcoin-01](https://mscribe.io/nats/)  
+☄️ [dmt-bitcoin-01](https://mscribe.io/nats/) /  
 
-🟠 [dmt-bitcoin-1](https://mscribe.io/nats/)  
+☄️ [dmt-bitcoin-1](https://mscribe.io/nats/) /  
 
-🟠 [dmt-bitcoin-10](https://mscribe.io/nats/)  
+☄️ [dmt-bitcoin-10](https://mscribe.io/nats/) /  
 
-🟠 [dmt-bitcoin-11](https://mscribe.io/nats/)  
+☄️ [dmt-bitcoin-11](https://mscribe.io/nats/) /  
 
-🟠 [dmt-bitcoin-010](https://mscribe.io/nats/)  
+☄️ [dmt-bitcoin-010](https://mscribe.io/nats/) /  
 
-🟠 [dmt-bitcoin-011](https://mscribe.io/nats/)  
+☄️ [dmt-bitcoin-011](https://mscribe.io/nats/) /  
 
-🟠 [dmt-bitcoin-100](https://mscribe.io/nats/)  
+☄️ [dmt-bitcoin-100](https://mscribe.io/nats/) /  
 
-🟠 [dmt-bitcoin-101](https://mscribe.io/nats/)  
+☄️ [dmt-bitcoin-101](https://mscribe.io/nats/) /  
 
-🟠 [dmt-bitcoin-110](https://mscribe.io/nats/)  
+☄️ [dmt-bitcoin-110](https://mscribe.io/nats/) /  
 
-🟠 [dmt-bitcoin-111](https://mscribe.io/nats/)  
+☄️ [dmt-bitcoin-111](https://mscribe.io/nats/) /  
 
 ## collection image
 
