@@ -145,7 +145,7 @@ bits hex pattern : `100`
 DMT element: `100.100.11.element`  
 rarity spectrum: **limited**  
 
-![dmt-bitcoin-100](images/)
+![dmt-bitcoin-100](gifs/dmt-btc-scroll-100.gif)
 
 `dmt-bitcoin-101`  
 bits hex pattern : `101`  
