@@ -1,6 +1,6 @@
 # dmt-bitcoin  
 
-A collection of Bitcoins born from Digital Matter Theory (DMT)
+☄️ A collection of Bitcoins born from Digital Matter Theory (DMT) ☄️
 
 ## basics
 
@@ -21,8 +21,6 @@ the [dmt-bitcoin dune dashboard](https://dune.com/bitgnat/dmt-bitcoin) is update
 📙 **Rarity**: ... dmt-bitcoin rarity as a percent of collection total supply  
 📙 **Expansion**: ... percentage of blocks that generate a dmt-bitcoin  
 📙 **Growth Rate**: ... overall rate of expansion for the dmt-bitcoin collection    
-
-![dmt-bitcoin-expansionary supply](images/)  
 
 ## Unique Non-Arbitrary Tokens (UNATs)
 
