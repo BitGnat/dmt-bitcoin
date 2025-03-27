@@ -88,69 +88,81 @@ UNATs minting on [mscribe.io](https://mscribe.io/nats?t=latest):
 bits hex pattern: `0`  
 DMT element: `bitnats.0.11.element`  
 rarity spectrum: **abundant**  
+
 ![dmt-bitcoin-0](gifs/dmt-btc-scroll-0.gif)
 
 `dmt-bitcoin-00`  
 bits hex pattern : `00`  
 DMT element: `bitnat00.00.11.element`  
 rarity spectrum: **popular**  
-![dmt-bitcoin-00](images/)
+
+![dmt-bitcoin-00](gifs/dmt-btc-scroll-00.gif)
 
 `dmt-bitcoin-01`  
 bits hex pattern : `01`  
 DMT element: `matter.01.11.element`  
 rarity spectrum: **infrequent**  
+
 ![dmt-bitcoin-01](images/)
 
 `dmt-bitcoin-1`  
 bits hex pattern : `1`  
 DMT element: `bitnat1.1.11.element`  
 rarity spectrum: **common**  
+
 ![dmt-bitcoin-1](images/)
 
 `dmt-bitcoin-10`  
 bits hex pattern : `10`  
 DMT element: `bitnat10.10.11.element`  
 rarity spectrum: **scarce**  
+
 ![dmt-bitcoin-10](images/)
 
 `dmt-bitcoin-11`  
 bits hex pattern : `11`  
 DMT element: `Eleven.11.11.element`  
 rarity spectrum: **scarce**  
+
 ![dmt-bitcoin-11](images/)
 
 `dmt-bitcoin-010`  
 bits hex pattern : `010`  
 DMT element: `ᘛ⁐̤ᕐᐷ.010.11.element`  
 rarity spectrum: **limited**  
+
 ![dmt-bitcoin-010](images/)
 
 `dmt-bitcoin-011`  
 bits hex pattern : `011`  
 DMT element: `bitnat011.011.11.element`  
 rarity spectrum: **limited**  
+
 ![dmt-bitcoin-011](images/)
 
 `dmt-bitcoin-100`  
 bits hex pattern : `100`  
 DMT element: `100.100.11.element`  
 rarity spectrum: **limited**  
+
 ![dmt-bitcoin-100](images/)
 
 `dmt-bitcoin-101`  
 bits hex pattern : `101`  
 DMT element: `lol.101.11.element`  
 rarity spectrum: **rare**  
+
 ![dmt-bitcoin-101](images/)
 
 `dmt-bitcoin-110`  
 bits hex pattern : `110`  
 DMT element: `bitnat110.110.11.element`  
 rarity spectrum: **rare**  
+
 ![dmt-bitcoin-110](images/)
 
 `dmt-bitcoin-111`  
 bits hex pattern : `111`  
 rarity spectrum: **rare**  
+
 ![dmt-bitcoin-111](images/)
