@@ -23,9 +23,9 @@ the [dmt-bitcoin dune dashboard](https://dune.com/bitgnat/dmt-bitcoin) is update
 📙 **Expansion**: ... percentage of blocks that generate a dmt-bitcoin  
 📙 **Growth Rate**: ... overall rate of expansion for the dmt-bitcoin collection    
 
-## Unique Non-Arbitrary Tokens (UNATs)
+## on-chain art
 
-on-chain [ordinal inscriptions](https://ordinals.com):
+[ordinal inscriptions](https://ordinals.com):
 
 ☄️ [dmt-bitcoin-0](https://ordinals.com/inscription/79fba8825654ff5cc64e3783cde119151a8c96d9995a3c9a912eb2cb3de779e4i0)  
 
