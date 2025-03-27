@@ -53,7 +53,7 @@ the [dmt-bitcoin dune dashboard](https://dune.com/bitgnat/dmt-bitcoin) is update
 
 ## dmt-mints
 
-[mscribe.io/nats](https://mscribe.io/nats?t=latest):
+[mint at mscribe.io/nats](https://mscribe.io/nats?t=latest)
 
 ☄️ [dmt-bitcoin-0](https://mscribe.io/nats/)  
 
