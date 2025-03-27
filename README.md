@@ -103,7 +103,7 @@ bits hex pattern : `01`
 DMT element: `matter.01.11.element`  
 rarity spectrum: **infrequent**  
 
-![dmt-bitcoin-01](images/)
+![dmt-bitcoin-01](gifs/dmt-btc-scroll-01.gif)
 
 `dmt-bitcoin-1`  
 bits hex pattern : `1`  
