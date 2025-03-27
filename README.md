@@ -88,7 +88,7 @@ UNATs minting on [mscribe.io](https://mscribe.io/nats?t=latest):
 bits hex pattern: `0`  
 DMT element: `bitnats.0.11.element`  
 rarity spectrum: **abundant**  
-![dmt-bitcoin-0](images/)
+![dmt-bitcoin-0](gifs/dmt-btc-scroll-0.gif)
 
 `dmt-bitcoin-00`  
 bits hex pattern : `00`  
