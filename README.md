@@ -188,4 +188,6 @@ rarity spectrum: `rare`
 ₿itcoin block bits hex pattern : `111`  
 rarity spectrum: `rare`  
 
+
+
 ![dmt-bitcoin-111](gifs/dmt-btc-scroll-111.gif)  
