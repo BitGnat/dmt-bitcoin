@@ -18,12 +18,12 @@
 
 the [dmt-bitcoin dune dashboard](https://dune.com/bitgnat/dmt-bitcoin) is updated daily 11:30 UTC and provides the following stats:  
 
-📙 **Spectrum**: ... rarity classifications for dmt-bitcoins  
-📙 **Supply**: ... dynamic supply of each dmt-bitcoin, which may or may not generate based on block data bits  
-📙 **Collection**: ... expansionary total supply of the dmt-bitcoin collection  
-📙 **Rarity**: ... dmt-bitcoin rarity as a percent of collection total supply  
-📙 **Expansion**: ... percentage of blocks that generate a dmt-bitcoin  
-📙 **Growth Rate**: ... overall rate of expansion for the dmt-bitcoin collection    
+📙 Spectrum: ... rarity classifications for the twelve (12) dmt-bitcoins  
+📙 Supply: ... dynamic supply of each dmt-bitcoin, which may or may not generate based on mined ₿itcoin block data  
+📙 Collection: ... expansionary total supply of the dmt-bitcoin collection of collections  
+📙 Rarity: ... dmt-bitcoin rarity as a percent of collection total supply  
+📙 Expansion: ... percentage of blocks that generate a dmt-bitcoin  
+📙 Growth Rate: ... overall rate of production for the dmt-bitcoin collection    
 
 ## on-chain art
 
