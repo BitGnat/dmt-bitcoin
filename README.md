@@ -83,9 +83,15 @@ the [dmt-bitcoin dune dashboard](https://dune.com/bitgnat/dmt-bitcoin) is update
 
 ## collection  
 
-project image:
+static image:  
 
-![dmt-bitcoin](pngs/dmt-bitcoin-000.png)
+![dmt-bitcoin](pngs/dmt-bitcoin-000.png)  
+
+scrolling gifs:  
+
+## dmt-bitcoin collection   
+
+![dmt-bitcoin-0](gifs/dmt-btc-scroll-000.gif)
 
 ## dmt-bitcoin-0  
 
