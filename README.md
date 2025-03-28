@@ -12,7 +12,7 @@
 👉 **dmt-bitcoins** ... are ... based on bit patterns (0's & 1's) found in ₿itcoin block's bits hexadecimal number  
 👉 **dmt-bitcoins** ... are ... therefore, Unique Non-Arbitrary Tokens (UNATs)     
 👉 **dmt-bitcoins** ... are ... available to mint on [mscribe.io](https://mscribe.io/nats?t=latest)  
-👉 **dmt-bitcoins** ... are ... trading incredibly fast on Trac's HyperMall soon!  
+👉 **dmt-bitcoins** ... are ... trading incredibly fast on Trac's HyperMall ... soon!  
 
 ## stats
 
