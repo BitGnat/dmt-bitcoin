@@ -25,6 +25,8 @@ the [dmt-bitcoin dune dashboard](https://dune.com/bitgnat/dmt-bitcoin) is update
 📙 Expansion: ... percentage of blocks that generate a dmt-bitcoin  
 📙 Growth Rate: ... overall rate of production for the dmt-bitcoin collection    
 
+![dmt-bitcoin-111](gifs/expansion.gif)  
+
 ## on-chain art
 
 [ordinal inscriptions](https://ordinals.com)
@@ -91,7 +93,7 @@ scrolling gifs:
 
 ## dmt-bitcoin collection   
 
-![dmt-bitcoin-0](gifs/dmt-btc-scroll-000.gif)
+![dmt-bitcoin-0](gifs/dmt-btc-scroll-000.gif)  
 
 ## dmt-bitcoin-0  
 
@@ -99,7 +101,7 @@ scrolling gifs:
 DMT element: `bitnats.0.11.element`  
 rarity spectrum: `abundant`  
 
-![dmt-bitcoin-0](gifs/dmt-btc-scroll-0.gif)
+![dmt-bitcoin-0](gifs/dmt-btc-scroll-0.gif)  
 
 ## dmt-bitcoin-00  
 
@@ -107,7 +109,7 @@ rarity spectrum: `abundant`
 DMT element: `bitnat00.00.11.element`  
 rarity spectrum: `popular`  
 
-![dmt-bitcoin-00](gifs/dmt-btc-scroll-00.gif)
+![dmt-bitcoin-00](gifs/dmt-btc-scroll-00.gif)  
 
 ## dmt-bitcoin-01  
 
@@ -115,7 +117,7 @@ rarity spectrum: `popular`
 DMT element: `matter.01.11.element`  
 rarity spectrum: `infrequent`  
 
-![dmt-bitcoin-01](gifs/dmt-btc-scroll-01.gif)
+![dmt-bitcoin-01](gifs/dmt-btc-scroll-01.gif)  
 
 ## dmt-bitcoin-1  
 
@@ -123,7 +125,7 @@ rarity spectrum: `infrequent`
 DMT element: `bitnat1.1.11.element`  
 rarity spectrum: `common`  
 
-![dmt-bitcoin-1](gifs/dmt-btc-scroll-1.gif)
+![dmt-bitcoin-1](gifs/dmt-btc-scroll-1.gif)  
 
 ## dmt-bitcoin-10  
 
@@ -131,7 +133,7 @@ rarity spectrum: `common`
 DMT element: `bitnat10.10.11.element`  
 rarity spectrum: `scarce`  
 
-![dmt-bitcoin-10](gifs/dmt-btc-scroll-10.gif)
+![dmt-bitcoin-10](gifs/dmt-btc-scroll-10.gif)  
 
 ## dmt-bitcoin-11  
 
@@ -139,7 +141,7 @@ rarity spectrum: `scarce`
 DMT element: `Eleven.11.11.element`  
 rarity spectrum: `scarce`  
 
-![dmt-bitcoin-11](gifs/dmt-btc-scroll-11.gif)
+![dmt-bitcoin-11](gifs/dmt-btc-scroll-11.gif)  
 
 ## dmt-bitcoin-010  
 
@@ -147,7 +149,7 @@ rarity spectrum: `scarce`
 DMT element: `ᘛ⁐̤ᕐᐷ.010.11.element`  
 rarity spectrum: `limited`  
 
-![dmt-bitcoin-010](gifs/dmt-btc-scroll-010.gif)
+![dmt-bitcoin-010](gifs/dmt-btc-scroll-010.gif)  
 
 ## dmt-bitcoin-011  
 
@@ -155,7 +157,7 @@ rarity spectrum: `limited`
 DMT element: `bitnat011.011.11.element`  
 rarity spectrum: `limited`  
 
-![dmt-bitcoin-011](gifs/dmt-btc-scroll-011.gif)
+![dmt-bitcoin-011](gifs/dmt-btc-scroll-011.gif)  
 
 ## dmt-bitcoin-100  
 
@@ -163,7 +165,7 @@ rarity spectrum: `limited`
 DMT element: `100.100.11.element`  
 rarity spectrum: `limited`  
 
-![dmt-bitcoin-100](gifs/dmt-btc-scroll-100.gif)
+![dmt-bitcoin-100](gifs/dmt-btc-scroll-100.gif)  
 
 ## dmt-bitcoin-101  
 
@@ -171,7 +173,7 @@ rarity spectrum: `limited`
 DMT element: `lol.101.11.element`  
 rarity spectrum: `rare`  
 
-![dmt-bitcoin-101](gifs/dmt-btc-scroll-101.gif)
+![dmt-bitcoin-101](gifs/dmt-btc-scroll-101.gif)  
 
 ## dmt-bitcoin-110  
 
@@ -179,11 +181,11 @@ rarity spectrum: `rare`
 DMT element: `bitnat110.110.11.element`  
 rarity spectrum: `rare`  
 
-![dmt-bitcoin-110](gifs/dmt-btc-scroll-110.gif)
+![dmt-bitcoin-110](gifs/dmt-btc-scroll-110.gif)  
 
 ## dmt-bitcoin-111  
 
 ₿itcoin block bits hex pattern : `111`  
 rarity spectrum: `rare`  
 
-![dmt-bitcoin-111](gifs/dmt-btc-scroll-111.gif)
+![dmt-bitcoin-111](gifs/dmt-btc-scroll-111.gif)  
