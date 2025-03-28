@@ -9,7 +9,7 @@
 👉 **dmt-bitcoins** ... are ... on-chain claims to ₿itcoin block data using the [tap protocol](https://github.com/Trac-Systems/tap-protocol-specs)  
 👉 **dmt-bitcoins** ... are ... indexed by the [trac network](https://trac.network)  
 👉 **dmt-bitcoins** ... are ... forged from Digital Matter Theory [DMT](https://digital-matter-theory.gitbook.io/digital-matter-theory)  
-👉 **dmt-bitcoins** ... are ... based on bit patterns (0's & 1's) found in the bits hexadecimal number of mined ₿itcoin blocks   
+👉 **dmt-bitcoins** ... are ... based on twelve (12) bit patterns (0's & 1's) found in the bits hexadecimal number of mined ₿itcoin blocks   
 👉 **dmt-bitcoins** ... are ... therefore, a collection of Unique Non-Arbitrary Token (UNAT) DMT collections     
 👉 **dmt-bitcoins** ... are ... available to mint on [mscribe.io](https://mscribe.io/nats?t=latest)  
 👉 **dmt-bitcoins** ... are ... trading incredibly fast on Trac's HyperMall ... soon!  
