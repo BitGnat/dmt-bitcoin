@@ -14,9 +14,7 @@
 
 ## stats
 
-the [dmt-bitcoin dune dashboard](https://dune.com/bitgnat/dmt-bitcoin) is updated daily 12:00 UTC and provides the following stats:  
-[![DMT-₿ITCOIN Dune Dashboard](https://img.shields.io/badge/Dune-Dashboard-blue)](https://dune.com/bitgnat/dmt-bitcoin)
-
+the DMT-₿ITCOIN [![Dune Dashboard](https://img.shields.io/badge/Dune-Dashboard-blue)](https://dune.com/bitgnat/dmt-bitcoin) is updated daily 12:00 UTC and provides the following stats:  
 
 📙 Spectrum: ... rarity classifications for the twelve (12) dmt-bitcoins  
 📙 Supply: ... dynamic supply of each dmt-bitcoin, which may or may not generate based on mined ₿itcoin block data  
