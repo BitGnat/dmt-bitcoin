@@ -182,6 +182,7 @@ rarity spectrum: `rare`
 ## dmt-bitcoin-111  
 
 ₿itcoin block bits hex pattern : `111`  
+DMT element: `genesis.111.11.element`  
 rarity spectrum: `rare`  
 
 
