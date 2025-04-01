@@ -1,5 +1,3 @@
-# DMT-₿ITCOIN : Forged from Digital Matter
-
 ![dmt-bitcoin](pngs/header.png)
 
 
