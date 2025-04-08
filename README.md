@@ -100,7 +100,13 @@ collection scrolling gifs:
 DMT element: `bitnats.0.11.element`  
 rarity spectrum: `abundant`  
 
+set scrolling gif:  
+
 ![dmt-bitcoin-0](gifs/dmt-btc-scroll-0.gif)  
+
+set static image:  
+
+![dmt-bitcoin](pngs/dmt-btc-0.png)  
 
 ## dmt-bitcoin-00  
 
@@ -108,7 +114,13 @@ rarity spectrum: `abundant`
 DMT element: `bitnat00.00.11.element`  
 rarity spectrum: `popular`  
 
+set scrolling gif:  
+
 ![dmt-bitcoin-00](gifs/dmt-btc-scroll-00.gif)  
+
+set static image:  
+
+![dmt-bitcoin](pngs/dmt-btc-00.png)  
 
 ## dmt-bitcoin-01  
 
@@ -116,7 +128,13 @@ rarity spectrum: `popular`
 DMT element: `matter.01.11.element`  
 rarity spectrum: `infrequent`  
 
+set scrolling gif:  
+
 ![dmt-bitcoin-01](gifs/dmt-btc-scroll-01.gif)  
+
+set static image:  
+
+![dmt-bitcoin](pngs/dmt-btc-01.png)  
 
 ## dmt-bitcoin-1  
 
@@ -124,7 +142,13 @@ rarity spectrum: `infrequent`
 DMT element: `bitnat1.1.11.element`  
 rarity spectrum: `common`  
 
+set scrolling gif:  
+
 ![dmt-bitcoin-1](gifs/dmt-btc-scroll-1.gif)  
+
+set static image:  
+
+![dmt-bitcoin](pngs/dmt-btc-1.png)  
 
 ## dmt-bitcoin-10  
 
@@ -132,7 +156,13 @@ rarity spectrum: `common`
 DMT element: `bitnat10.10.11.element`  
 rarity spectrum: `scarce`  
 
+set scrolling gif:  
+
 ![dmt-bitcoin-10](gifs/dmt-btc-scroll-10.gif)  
+
+set static image:  
+
+![dmt-bitcoin](pngs/dmt-btc-10.png)  
 
 ## dmt-bitcoin-11  
 
@@ -140,7 +170,13 @@ rarity spectrum: `scarce`
 DMT element: `Eleven.11.11.element`  
 rarity spectrum: `scarce`  
 
+set scrolling gif:  
+
 ![dmt-bitcoin-11](gifs/dmt-btc-scroll-11.gif)  
+
+set static image:  
+
+![dmt-bitcoin](pngs/dmt-btc-11.png)  
 
 ## dmt-bitcoin-010  
 
@@ -148,7 +184,13 @@ rarity spectrum: `scarce`
 DMT element: `ᘛ⁐̤ᕐᐷ.010.11.element`  
 rarity spectrum: `limited`  
 
+set scrolling gif:  
+
 ![dmt-bitcoin-010](gifs/dmt-btc-scroll-010.gif)  
+
+set static image:  
+
+![dmt-bitcoin](pngs/dmt-btc-010.png)  
 
 ## dmt-bitcoin-011  
 
@@ -156,7 +198,13 @@ rarity spectrum: `limited`
 DMT element: `bitnat011.011.11.element`  
 rarity spectrum: `limited`  
 
+set scrolling gif:  
+
 ![dmt-bitcoin-011](gifs/dmt-btc-scroll-011.gif)  
+
+set static image:  
+
+![dmt-bitcoin](pngs/dmt-btc-011.png)  
 
 ## dmt-bitcoin-100  
 
@@ -164,7 +212,13 @@ rarity spectrum: `limited`
 DMT element: `100.100.11.element`  
 rarity spectrum: `limited`  
 
+set scrolling gif:  
+
 ![dmt-bitcoin-100](gifs/dmt-btc-scroll-100.gif)  
+
+set static image:  
+
+![dmt-bitcoin](pngs/dmt-btc-100.png)  
 
 ## dmt-bitcoin-101  
 
@@ -172,7 +226,13 @@ rarity spectrum: `limited`
 DMT element: `lol.101.11.element`  
 rarity spectrum: `rare`  
 
+set scrolling gif:  
+
 ![dmt-bitcoin-101](gifs/dmt-btc-scroll-101.gif)  
+
+set static image:  
+
+![dmt-bitcoin](pngs/dmt-btc-101.png)  
 
 ## dmt-bitcoin-110  
 
@@ -180,7 +240,13 @@ rarity spectrum: `rare`
 DMT element: `bitnat110.110.11.element`  
 rarity spectrum: `rare`  
 
+set scrolling gif:  
+
 ![dmt-bitcoin-110](gifs/dmt-btc-scroll-110.gif)  
+
+set static image:  
+
+![dmt-bitcoin](pngs/dmt-btc-110.png)  
 
 ## dmt-bitcoin-111  
 
@@ -188,6 +254,10 @@ rarity spectrum: `rare`
 DMT element: `genesis.111.11.element`  
 rarity spectrum: `rare`  
 
-
+set scrolling gif:  
 
 ![dmt-bitcoin-111](gifs/dmt-btc-scroll-111.gif)  
+
+set static image:  
+
+![dmt-bitcoin](pngs/dmt-btc-111.png)  
