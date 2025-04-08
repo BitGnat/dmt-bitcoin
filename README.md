@@ -9,7 +9,7 @@
 👉 **dmt-bitcoins** ... are ... indexed by the [trac network](https://trac.network)  
 👉 **dmt-bitcoins** ... are ... Unique Non-Arbitrary Tokens (UNATs) forged from Digital Matter Theory [DMT](https://digital-matter-theory.gitbook.io/digital-matter-theory)  
 👉 **dmt-bitcoins** ... are ... based on bit patterns (0's & 1's) found in the bits hexadecimal of mined ₿itcoin blocks   
-👉 **dmt-bitcoins** ... are ... an aggregation of twelve (12) DMT UNAT collections  
+👉 **dmt-bitcoins** ... are ... an aggregation of twelve (12) DMT UNAT sets  
 👉 **dmt-bitcoins** ... are ... available to mint on [mscribe.io](https://mscribe.io/nats?t=latest)  
 👉 **dmt-bitcoins** ... are ... trading incredibly fast on Trac's HyperMall ... soon!  
 
