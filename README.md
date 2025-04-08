@@ -30,6 +30,10 @@ the DMT-₿ITCOIN dashboard is updated daily 12:00 UTC and provides the followin
 
 ## on-chain art
 
+There is one script that renders all dmt-bitcoins. 
+
+⦿ [dmt-bitcoin unat inscription/](https://ordinals.com/inscription/79fba8825654ff5cc64e3783cde119151a8c96d9995a3c9a912eb2cb3de779e4i0) 
+
 [ordinal inscriptions](https://ordinals.com)
 
 ⦿ [dmt-bitcoin-0](https://ordinals.com/inscription/79fba8825654ff5cc64e3783cde119151a8c96d9995a3c9a912eb2cb3de779e4i0)  
@@ -60,29 +64,29 @@ the DMT-₿ITCOIN dashboard is updated daily 12:00 UTC and provides the followin
 
 [mint at mscribe.io/nats](https://mscribe.io/nats?t=latest)
 
-🚀 [dmt-bitcoin-0](https://mscribe.io/nats/dmt-bitcoin-0)  
+🟠 [dmt-bitcoin-0](https://mscribe.io/nats/dmt-bitcoin-0)  
 
-🚀 [dmt-bitcoin-00](https://mscribe.io/nats/dmt-bitcoin-00)  
+🟠 [dmt-bitcoin-00](https://mscribe.io/nats/dmt-bitcoin-00)  
 
-🚀 [dmt-bitcoin-01](https://mscribe.io/nats/dmt-bitcoin-01)  
+🟠 [dmt-bitcoin-01](https://mscribe.io/nats/dmt-bitcoin-01)  
 
-🚀 [dmt-bitcoin-1](https://mscribe.io/nats/dmt-bitcoin-1)  
+🟠 [dmt-bitcoin-1](https://mscribe.io/nats/dmt-bitcoin-1)  
 
-🚀 [dmt-bitcoin-10](https://mscribe.io/nats/dmt-bitcoin-10)  
+🟠 [dmt-bitcoin-10](https://mscribe.io/nats/dmt-bitcoin-10)  
 
-🚀 [dmt-bitcoin-11](https://mscribe.io/nats/dmt-bitcoin-11)  
+🟠 [dmt-bitcoin-11](https://mscribe.io/nats/dmt-bitcoin-11)  
 
-🚀 [dmt-bitcoin-010](https://mscribe.io/nats/dmt-bitcoin-010)  
+🟠 [dmt-bitcoin-010](https://mscribe.io/nats/dmt-bitcoin-010)  
 
-🚀 [dmt-bitcoin-011](https://mscribe.io/nats/dmt-bitcoin-011)  
+🟠 [dmt-bitcoin-011](https://mscribe.io/nats/dmt-bitcoin-011)  
 
-🚀 [dmt-bitcoin-100](https://mscribe.io/nats/dmt-bitcoin-100)  
+🟠 [dmt-bitcoin-100](https://mscribe.io/nats/dmt-bitcoin-100)  
 
-🚀 [dmt-bitcoin-101](https://mscribe.io/nats/dmt-bitcoin-101)  
+🟠 [dmt-bitcoin-101](https://mscribe.io/nats/dmt-bitcoin-101)  
 
-🚀 [dmt-bitcoin-110](https://mscribe.io/nats/dmt-bitcoin-110)  
+🟠 [dmt-bitcoin-110](https://mscribe.io/nats/dmt-bitcoin-110)  
 
-🚀 [dmt-bitcoin-111](https://mscribe.io/nats/dmt-bitcoin-111)  
+🟠 [dmt-bitcoin-111](https://mscribe.io/nats/dmt-bitcoin-111)  
 
 ## dmt-bitcoin art  
 
@@ -96,7 +100,7 @@ collection scrolling gifs:
 
 ## dmt-bitcoin-0  
 
-₿itcoin block bits hex pattern: `0`  
+₿itcoin block bits hexadecimal pattern: `0`  
 DMT element: `bitnats.0.11.element`  
 rarity spectrum: `abundant`  
 
@@ -110,7 +114,7 @@ set static image:
 
 ## dmt-bitcoin-00  
 
-₿itcoin block bits hex pattern : `00`  
+₿itcoin block bits hexadecimal pattern : `00`  
 DMT element: `bitnat00.00.11.element`  
 rarity spectrum: `popular`  
 
@@ -124,7 +128,7 @@ set static image:
 
 ## dmt-bitcoin-01  
 
-₿itcoin block bits hex pattern : `01`  
+₿itcoin block bits hexadecimal pattern : `01`  
 DMT element: `matter.01.11.element`  
 rarity spectrum: `infrequent`  
 
@@ -138,7 +142,7 @@ set static image:
 
 ## dmt-bitcoin-1  
 
-₿itcoin block bits hex pattern : `1`  
+₿itcoin block bits hexadecimal pattern : `1`  
 DMT element: `bitnat1.1.11.element`  
 rarity spectrum: `common`  
 
@@ -152,7 +156,7 @@ set static image:
 
 ## dmt-bitcoin-10  
 
-₿itcoin block bits hex pattern : `10`  
+₿itcoin block bits hexadecimal pattern : `10`  
 DMT element: `bitnat10.10.11.element`  
 rarity spectrum: `scarce`  
 
@@ -166,7 +170,7 @@ set static image:
 
 ## dmt-bitcoin-11  
 
-₿itcoin block bits hex pattern : `11`  
+₿itcoin block bits hexadecimal pattern : `11`  
 DMT element: `Eleven.11.11.element`  
 rarity spectrum: `scarce`  
 
@@ -180,7 +184,7 @@ set static image:
 
 ## dmt-bitcoin-010  
 
-₿itcoin block bits hex pattern : `010`  
+₿itcoin block bits hexadecimal pattern : `010`  
 DMT element: `ᘛ⁐̤ᕐᐷ.010.11.element`  
 rarity spectrum: `limited`  
 
@@ -194,7 +198,7 @@ set static image:
 
 ## dmt-bitcoin-011  
 
-₿itcoin block bits hex pattern : `011`  
+₿itcoin block bits hexadecimal pattern : `011`  
 DMT element: `bitnat011.011.11.element`  
 rarity spectrum: `limited`  
 
@@ -208,7 +212,7 @@ set static image:
 
 ## dmt-bitcoin-100  
 
-₿itcoin block bits hex pattern : `100`  
+₿itcoin block bits hexadecimal pattern : `100`  
 DMT element: `100.100.11.element`  
 rarity spectrum: `limited`  
 
@@ -222,7 +226,7 @@ set static image:
 
 ## dmt-bitcoin-101  
 
-₿itcoin block bits hex pattern : `101`  
+₿itcoin block bits hexadecimal pattern : `101`  
 DMT element: `lol.101.11.element`  
 rarity spectrum: `rare`  
 
@@ -236,7 +240,7 @@ set static image:
 
 ## dmt-bitcoin-110  
 
-₿itcoin block bits hex pattern : `110`  
+₿itcoin block bits hexadecimal pattern : `110`  
 DMT element: `bitnat110.110.11.element`  
 rarity spectrum: `rare`  
 
@@ -250,7 +254,7 @@ set static image:
 
 ## dmt-bitcoin-111  
 
-₿itcoin block bits hex pattern : `111`  
+₿itcoin block bits hexadecimal pattern : `111`  
 DMT element: `genesis.111.11.element`  
 rarity spectrum: `rare`  
 
