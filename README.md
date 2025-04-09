@@ -32,7 +32,7 @@ the DMT-₿ITCOIN dashboard is updated daily 12:00 UTC and provides the followin
 
 There is one script that renders all dmt-bitcoins. 
 
-⦿ [dmt-bitcoin unat inscription/1561a28f052b0c854d38560f92b98e1d78bfa91bf6bb553b7e8ba1a42dd9e0cfi0](https://ordinals.com/inscription/1561a28f052b0c854d38560f92b98e1d78bfa91bf6bb553b7e8ba1a42dd9e0cfi0) 
+⦿ [inscription/1561a28f052b0c854d38560f92b98e1d78bfa91bf6bb553b7e8ba1a42dd9e0cfi0](https://ordinals.com/inscription/1561a28f052b0c854d38560f92b98e1d78bfa91bf6bb553b7e8ba1a42dd9e0cfi0) 
 
 ## dmt-mints
 
