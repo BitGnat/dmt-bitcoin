@@ -22,7 +22,7 @@
 - based on bit patterns (0's & 1's) found in the bits hexadecimal of mined ₿itcoin blocks   
 
 👉 **dmt-bitcoins** ... are ...
-- an aggregation of twelve (12) DMT UNAT sets  
+- grouped into twelve (12) sets according to the bit pattern     
 
 👉 **dmt-bitcoins** ... are ...
 - available to mint on [mscribe.io](https://mscribe.io/nats?t=latest)  
