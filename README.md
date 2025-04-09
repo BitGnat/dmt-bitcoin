@@ -19,12 +19,12 @@
 
 the DMT-₿ITCOIN dashboard is updated daily 12:00 UTC and provides the following stats:  
 
-📙 Spectrum: ... rarity classifications for the twelve (12) dmt-bitcoins  
-📙 Supply: ... dynamic supply of each dmt-bitcoin, which may or may not generate based on mined ₿itcoin block data  
-📙 Collection: ... expansionary total supply of the dmt-bitcoin collection of collections  
-📙 Rarity: ... dmt-bitcoin rarity as a percent of collection total supply  
-📙 Expansion: ... percentage of blocks that generate a dmt-bitcoin  
-📙 Growth Rate: ... overall rate of production for the dmt-bitcoin collection    
+📙 Spectrum: ... rarity classifications for the twelve (12) DMT-₿ITCOINS  
+📙 Supply: ... dynamic supply of each DMT-₿ITCOIN, which may or may not generate based on mined ₿itcoin block data  
+📙 Collection: ... expansionary total supply of the collection of DMT-₿ITCOIN sets  
+📙 Rarity: ... DMT-₿ITCOIN rarity as a percent of the collection total supply  
+📙 Expansion: ... percentage of blocks that generate a DMT-₿ITCOIN  
+📙 Growth Rate: ... overall rate of production for the DMT-₿ITCOIN collection    
 
 ![dmt-bitcoin-111](gifs/expansion.gif)  
 
