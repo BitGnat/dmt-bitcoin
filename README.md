@@ -49,7 +49,7 @@ There is one script that renders all dmt-bitcoins.
 - Element: `name.<dmt-bitcoin set #>.11.element`
 - Mint: `mint: <mint_inscription_id>`
 - Block Number: `block: <blockNumber>`
-- Bits Hexadecimal: `0x<bitsHex>`
+- Bits Hexadecimal: `0x<blockNumber bitsHex>`
 
 ## dmt-mints
 
