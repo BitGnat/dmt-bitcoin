@@ -43,24 +43,24 @@
 
 [![Dune Dashboard](https://img.shields.io/badge/Dune-Dashboard-blue)](https://dune.com/bitgnat/dmt-bitcoin)  
 
-the DMT-₿ITCOIN dashboard is updated daily 12:00 UTC and provides the following stats:  
+The DMT-₿ITCOIN dashboard is updated daily at 12:00 UTC and provides the following stats:  
 
-📙 Spectrum: ...  
+📙 Spectrum:  
 rarity classifications for the twelve (12) DMT-₿ITCOINS  
 
-📙 Supply: ...  
+📙 Supply:  
 dynamic supply of each DMT-₿ITCOIN, which may or may not generate based on mined ₿itcoin block data  
 
-📙 Collection: ...  
+📙 Collection:  
 expansionary total supply of the collection of DMT-₿ITCOIN sets  
 
-📙 Rarity: ...  
+📙 Rarity:  
 DMT-₿ITCOIN rarity as a percent of the collection total supply  
 
-📙 Expansion: ...  
+📙 Expansion:  
 percentage of blocks that generate a DMT-₿ITCOIN  
 
-📙 Growth Rate: ...  
+📙 Growth Rate:  
 overall rate of production for the DMT-₿ITCOIN collection    
 
 ![dmt-bitcoin-111](gifs/expansion.gif)  
