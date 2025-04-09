@@ -68,10 +68,6 @@ collection static image:
 
 ![dmt-bitcoin](pngs/collection.png)  
 
-collection scrolling gifs:  
-
-![dmt-bitcoin-0](gifs/dmt-btc-scroll-000.gif)  
-
 ## dmt-bitcoin-0  
 
 ₿itcoin block bits hexadecimal pattern: `0`  
