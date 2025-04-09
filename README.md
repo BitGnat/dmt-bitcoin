@@ -18,7 +18,7 @@
 
 [![Dune Dashboard](https://img.shields.io/badge/Dune-Dashboard-blue)](https://dune.com/bitgnat/dmt-bitcoin)  
 
-The DMT-₿ITCOIN dashboard is updated daily at 12:00 UTC and provides the following stats:  
+The DMT-₿ITCOIN [dashboard](https://dune.com/bitgnat/dmt-bitcoin) is updated daily at 12:00 UTC and provides the following stats:  
 
 📙 **Spectrum**:  
 - rarity classifications for the twelve (12) DMT-₿ITCOIN sets   
