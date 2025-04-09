@@ -37,7 +37,7 @@
 The DMT-₿ITCOIN dashboard is updated daily at 12:00 UTC and provides the following stats:  
 
 📙 **Spectrum**:  
-- rarity classifications for the twelve (12) DMT-₿ITCOINS  
+- rarity classifications for the twelve (12) DMT-₿ITCOIN sets   
 
 📙 **Supply**:  
 - dynamic supply of each DMT-₿ITCOIN, which may or may not generate based on mined ₿itcoin block data  
