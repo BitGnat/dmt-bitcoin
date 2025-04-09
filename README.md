@@ -9,35 +9,35 @@
 
 👉 **dmt-bitcoins** ... are ...  
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[ordinal inscriptions](https://docs.ordinals.com/) on ₿itcoin  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- [ordinal inscriptions](https://docs.ordinals.com/) on ₿itcoin  
 
 👉 **dmt-bitcoins** ... are ...  
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;on-chain claims to ₿itcoin block data using the [tap protocol](https://github.com/Trac-Systems/tap-protocol-specs)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- on-chain claims to ₿itcoin block data using the [tap protocol](https://github.com/Trac-Systems/tap-protocol-specs)  
 
 👉 **dmt-bitcoins** ... are ...  
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;indexed by the [trac network](https://trac.network)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- indexed by the [trac network](https://trac.network)  
 
 👉 **dmt-bitcoins** ... are ...  
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Unique Non-Arbitrary Tokens (UNATs) forged from Digital Matter Theory [DMT](https://digital-matter-theory.gitbook.io/digital-matter-theory)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- Unique Non-Arbitrary Tokens (UNATs) forged from Digital Matter Theory [DMT](https://digital-matter-theory.gitbook.io/digital-matter-theory)  
 
 👉 **dmt-bitcoins** ... are ...  
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;based on bit patterns (0's & 1's) found in the bits hexadecimal of mined ₿itcoin blocks   
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- based on bit patterns (0's & 1's) found in the bits hexadecimal of mined ₿itcoin blocks   
 
 👉 **dmt-bitcoins** ... are ...  
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;an aggregation of twelve (12) DMT UNAT sets  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- an aggregation of twelve (12) DMT UNAT sets  
 
 👉 **dmt-bitcoins** ... are ...  
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;available to mint on [mscribe.io](https://mscribe.io/nats?t=latest)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- available to mint on [mscribe.io](https://mscribe.io/nats?t=latest)  
 
 👉 **dmt-bitcoins** ... are ...  
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;trading incredibly fast on Trac's HyperMall ... soon!  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- trading incredibly fast on Trac's HyperMall ... soon!  
 
 ## stats
 
