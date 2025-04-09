@@ -66,7 +66,7 @@ There are twelve (12) sets of DMT-₿ITCOIN available to mint at: [mscribe.io/na
 
 collection static image:  
 
-![dmt-bitcoin](pngs/dmt-bitcoin-000.png)  
+![dmt-bitcoin](pngs/collection.png)  
 
 collection scrolling gifs:  
 
