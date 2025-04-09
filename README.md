@@ -32,33 +32,7 @@ the DMT-₿ITCOIN dashboard is updated daily 12:00 UTC and provides the followin
 
 There is one script that renders all dmt-bitcoins. 
 
-⦿ [dmt-bitcoin unat inscription/](https://ordinals.com/inscription/79fba8825654ff5cc64e3783cde119151a8c96d9995a3c9a912eb2cb3de779e4i0) 
-
-[ordinal inscriptions](https://ordinals.com)
-
-⦿ [dmt-bitcoin-0](https://ordinals.com/inscription/79fba8825654ff5cc64e3783cde119151a8c96d9995a3c9a912eb2cb3de779e4i0)  
-
-⦿ [dmt-bitcoin-00](https://ordinals.com/inscription/79fba8825654ff5cc64e3783cde119151a8c96d9995a3c9a912eb2cb3de779e4i1)  
-
-⦿ [dmt-bitcoin-01](https://ordinals.com/inscription/79fba8825654ff5cc64e3783cde119151a8c96d9995a3c9a912eb2cb3de779e4i3)  
-
-⦿ [dmt-bitcoin-1](https://ordinals.com/inscription/79fba8825654ff5cc64e3783cde119151a8c96d9995a3c9a912eb2cb3de779e4i2)  
-
-⦿ [dmt-bitcoin-10](https://ordinals.com/inscription/79fba8825654ff5cc64e3783cde119151a8c96d9995a3c9a912eb2cb3de779e4i4)  
-
-⦿ [dmt-bitcoin-11](https://ordinals.com/inscription/79fba8825654ff5cc64e3783cde119151a8c96d9995a3c9a912eb2cb3de779e4i6)  
-
-⦿ [dmt-bitcoin-010](https://ordinals.com/inscription/79fba8825654ff5cc64e3783cde119151a8c96d9995a3c9a912eb2cb3de779e4i5)  
-
-⦿ [dmt-bitcoin-011](https://ordinals.com/inscription/79fba8825654ff5cc64e3783cde119151a8c96d9995a3c9a912eb2cb3de779e4i7)  
-
-⦿ [dmt-bitcoin-100](https://ordinals.com/inscription/79fba8825654ff5cc64e3783cde119151a8c96d9995a3c9a912eb2cb3de779e4i8)  
-
-⦿ [dmt-bitcoin-101](https://ordinals.com/inscription/79fba8825654ff5cc64e3783cde119151a8c96d9995a3c9a912eb2cb3de779e4i9)  
-
-⦿ [dmt-bitcoin-110](https://ordinals.com/inscription/79fba8825654ff5cc64e3783cde119151a8c96d9995a3c9a912eb2cb3de779e4i10)  
-
-⦿ [dmt-bitcoin-111](https://ordinals.com/inscription/79fba8825654ff5cc64e3783cde119151a8c96d9995a3c9a912eb2cb3de779e4i11)  
+⦿ [dmt-bitcoin unat inscription/1561a28f052b0c854d38560f92b98e1d78bfa91bf6bb553b7e8ba1a42dd9e0cfi0](https://ordinals.com/inscription/1561a28f052b0c854d38560f92b98e1d78bfa91bf6bb553b7e8ba1a42dd9e0cfi0) 
 
 ## dmt-mints
 
