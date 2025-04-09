@@ -32,7 +32,24 @@ the DMT-₿ITCOIN dashboard is updated daily 12:00 UTC and provides the followin
 
 There is one script that renders all dmt-bitcoins. 
 
-⦿ [inscription/1561a28f052b0c854d38560f92b98e1d78bfa91bf6bb553b7e8ba1a42dd9e0cfi0](https://ordinals.com/inscription/1561a28f052b0c854d38560f92b98e1d78bfa91bf6bb553b7e8ba1a42dd9e0cfi0) 
+⦿ [inscription/1561a28f052b0c854d38560f92b98e1d78bfa91bf6bb553b7e8ba1a42dd9e0cfi0](https://ordinals.com/inscription/1561a28f052b0c854d38560f92b98e1d78bfa91bf6bb553b7e8ba1a42dd9e0cfi0)  
+
+**Rendering with Block Input**: 
+
+- Display: `blank`
+- Ticker: `tick: dmt-mint-?`
+- Element: `name.?.11.element`
+- Deployment: `deploy: 0000000000000000000000000000000000000000000000000000000000000000i0`
+- Block Number: `block: <blockNumber>`
+- Bits Hexadecimal: `0x<bitsHex>`
+
+**Rendering with Mint Input**: 
+- Display: `<dmt-bitcoin set #>`
+- Ticker: `tick: dmt-bitcoin-<dmt-bitcoin set #>`
+- Element: `name.<dmt-bitcoin set #>.11.element`
+- Mint: `mint: <mint_inscription_id>`
+- Block Number: `block: <blockNumber>`
+- Bits Hexadecimal: `0x<bitsHex>`
 
 ## dmt-mints
 
