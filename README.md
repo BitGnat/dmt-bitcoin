@@ -72,12 +72,12 @@ There is one script that renders all dmt-bitcoins.
 - Bits Hexadecimal: `0x<bitsHex>`
 
 **Rendering with Mint Input**: 
-- Display: `<dmt-bitcoin set #>`
-- Ticker: `tick: dmt-bitcoin-<dmt-bitcoin set #>`
-- Element: `name.<dmt-bitcoin set #>.11.element`
+- Display: `<dmt-bitcoin_set-#>`
+- Ticker: `tick: dmt-bitcoin-<dmt-bitcoin_set-#>`
+- Element: `name.<dmt-bitcoin_set-#>.11.element`
 - Mint: `mint: <mint_inscription_id>`
 - Block Number: `block: <blockNumber>`
-- Bits Hexadecimal: `0x<blockNumber bitsHex>`
+- Bits Hexadecimal: `0x<blockNumber_bitsHex>`
 
 ## dmt-mints
 
