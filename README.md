@@ -36,7 +36,7 @@ There is one script that renders all dmt-bitcoins.
 
 ## dmt-mints
 
-The twelve (12) sets of DMT-₿ITCOIN are available to mint at: [mscribe.io/nats](https://mscribe.io/nats?t=latest)
+There are twelve (12) sets of DMT-₿ITCOIN available to mint at: [mscribe.io/nats](https://mscribe.io/nats?t=latest)
 
 🟠 [dmt-bitcoin-0](https://mscribe.io/nats/dmt-bitcoin-0)  
 
