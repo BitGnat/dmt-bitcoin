@@ -70,6 +70,13 @@ There are twelve (12) sets of DMT-₿ITCOIN available to mint on [mscribe.io/nat
 
 🟧 [dmt-bitcoin-111](https://mscribe.io/nats/dmt-bitcoin-111) (2)  
 
+## 📄 License
+
+- **Code** is licensed under the [MIT License](./LICENSE)
+- **Images** are licensed under [CC BY-NC-ND 4.0](./LICENSE-images.md)
+
+[![License: CC BY-NC-ND 4.0](https://img.shields.io/badge/Images%20License-CC%20BY--NC--ND%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-nd/4.0/)
+
 ## on-chain art
 
 All DMT-₿ITCOIN sets are rendered with one ordinal inscription script:    
@@ -281,11 +288,3 @@ set scrolling gif:
 set static image:  
 
 ![dmt-bitcoin](pngs/dmt-btc-111.png)  
-
-## 📄 License
-
-- **Code** is licensed under the [MIT License](./LICENSE)
-- **Images** are licensed under [CC BY-NC-ND 4.0](./LICENSE-images.md)
-
-[![License: CC BY-NC-ND 4.0](https://img.shields.io/badge/Images%20License-CC%20BY--NC--ND%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-nd/4.0/)
-
