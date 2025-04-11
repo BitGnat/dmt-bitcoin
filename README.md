@@ -78,31 +78,33 @@ Therefore, each DMT-₿ITCOIN mint is:
 
 ## dmt-mints
 
-There are twelve (12) sets of DMT-₿ITCOIN available to mint at: [mscribe.io/nats](https://mscribe.io/nats?t=latest)
+There are twelve (12) sets of DMT-₿ITCOIN available to mint on [mscribe.io/nats](https://mscribe.io/nats?t=latest) blockpads.  
+Available blocks are <span style="color: orange;">orange</span>
+ 
 
-🟠 [dmt-bitcoin-0](https://mscribe.io/nats/dmt-bitcoin-0)  
+🟧 [dmt-bitcoin-0](https://mscribe.io/nats/dmt-bitcoin-0)  
 
-🟠 [dmt-bitcoin-00](https://mscribe.io/nats/dmt-bitcoin-00)  
+🟧 [dmt-bitcoin-00](https://mscribe.io/nats/dmt-bitcoin-00)  
 
-🟠 [dmt-bitcoin-01](https://mscribe.io/nats/dmt-bitcoin-01)  
+🟧 [dmt-bitcoin-01](https://mscribe.io/nats/dmt-bitcoin-01)  
 
-🟠 [dmt-bitcoin-1](https://mscribe.io/nats/dmt-bitcoin-1)  
+🟧 [dmt-bitcoin-1](https://mscribe.io/nats/dmt-bitcoin-1)  
 
-🟠 [dmt-bitcoin-10](https://mscribe.io/nats/dmt-bitcoin-10)  
+🟧 [dmt-bitcoin-10](https://mscribe.io/nats/dmt-bitcoin-10)  
 
-🟠 [dmt-bitcoin-11](https://mscribe.io/nats/dmt-bitcoin-11)  
+🟧 [dmt-bitcoin-11](https://mscribe.io/nats/dmt-bitcoin-11)  
 
-🟠 [dmt-bitcoin-010](https://mscribe.io/nats/dmt-bitcoin-010)  
+🟧 [dmt-bitcoin-010](https://mscribe.io/nats/dmt-bitcoin-010)  
 
-🟠 [dmt-bitcoin-011](https://mscribe.io/nats/dmt-bitcoin-011)  
+🟧 [dmt-bitcoin-011](https://mscribe.io/nats/dmt-bitcoin-011)  
 
-🟠 [dmt-bitcoin-100](https://mscribe.io/nats/dmt-bitcoin-100)  
+🟧 [dmt-bitcoin-100](https://mscribe.io/nats/dmt-bitcoin-100)  
 
-🟠 [dmt-bitcoin-101](https://mscribe.io/nats/dmt-bitcoin-101)  
+🟧 [dmt-bitcoin-101](https://mscribe.io/nats/dmt-bitcoin-101)  
 
-🟠 [dmt-bitcoin-110](https://mscribe.io/nats/dmt-bitcoin-110)  
+🟧 [dmt-bitcoin-110](https://mscribe.io/nats/dmt-bitcoin-110)  
 
-🟠 [dmt-bitcoin-111](https://mscribe.io/nats/dmt-bitcoin-111)  
+🟧 [dmt-bitcoin-111](https://mscribe.io/nats/dmt-bitcoin-111)  
 
 ## dmt-bitcoin art  
 
