@@ -106,9 +106,9 @@ Therefore, each DMT-₿ITCOIN mint is:
 
 ![dmt-bitcoin](pngs/mint_input.png)  
 
-## dmt-bitcoin art  
+## dmt-bitcoin collection  
 
-The following png and gif images are provided to showcase the sets of the DMT-₿ITCOIN collection. 
+The following png and gif images are provided to showcase the sets of the DMT-₿ITCOIN collection.  
 
 collection static image:  
 
