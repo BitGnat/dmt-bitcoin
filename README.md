@@ -80,7 +80,7 @@ Therefore, each DMT-₿ITCOIN mint is:
 
 There are twelve (12) sets of DMT-₿ITCOIN available to mint on [mscribe.io/nats](https://mscribe.io/nats?t=latest).  
 
-<u>Blockpad links</u> and the (maximum number of mints per wallet):  
+[Blockpad links](https://mscribe.io/nats?t=latest) and the (maximum number of mints per wallet):  
 
 🟧 [dmt-bitcoin-0](https://mscribe.io/nats/dmt-bitcoin-0) (500)  
 
