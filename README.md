@@ -48,7 +48,7 @@ All DMT-₿ITCOIN sets are rendered with one ordinal inscription script:
 
 Therefore, each DMT-₿ITCOIN mint is:
 - **100% code** (all dmt-bitcoin mints are dynamically generated) &  
-- **100% on-chain** (all dmt-bitcoin minst are embedded in Bitcoin transactions) 
+- **100% on-chain** (all dmt-bitcoin mints are embedded in Bitcoin transactions) 
 
 **Rendering with Block Input**  
 ➠ Generic image when only block numbers are provided:  
