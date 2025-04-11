@@ -14,7 +14,7 @@
 - available to mint on [mscribe.io](https://mscribe.io/nats?t=latest)  
 - trading incredibly fast on Trac's HyperMall ... soon!  
 
-## stats
+## tokenomics
 
 [![Dune Dashboard](https://img.shields.io/badge/Dune-Dashboard-blue)](https://dune.com/bitgnat/dmt-bitcoin)  
 
