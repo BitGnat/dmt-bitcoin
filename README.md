@@ -84,7 +84,7 @@ There are twelve (12) sets of DMT-₿ITCOIN available to mint on [mscribe.io/nat
 
 ## on-chain art
 
-All DMT-₿ITCOIN sets are rendered with one ordinal inscription script:    
+All DMT-₿ITCOIN sets are rendered with one ordinal inscription code script:    
 
 ⦿ [inscription/1561a28f052b0c854d38560f92b98e1d78bfa91bf6bb553b7e8ba1a42dd9e0cfi0](https://ordinals.com/inscription/1561a28f052b0c854d38560f92b98e1d78bfa91bf6bb553b7e8ba1a42dd9e0cfi0)  
 
