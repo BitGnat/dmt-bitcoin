@@ -46,8 +46,9 @@ All DMT-₿ITCOIN sets are rendered with one on-chain script:
 
 ⦿ [inscription/1561a28f052b0c854d38560f92b98e1d78bfa91bf6bb553b7e8ba1a42dd9e0cfi0](https://ordinals.com/inscription/1561a28f052b0c854d38560f92b98e1d78bfa91bf6bb553b7e8ba1a42dd9e0cfi0)  
 
-Therefore, each DMT-₿ITCOIN mint is 100% code and 100% embedded in Bitcoin transactions. 
-
+Therefore, each DMT-₿ITCOIN mint is:
+- **100% code** (each image is dynamically generated) &  
+- **100% on-chain** (embedded in Bitcoin transactions) 
 
 **Rendering with Block Input** 
 ➠ Generic image when only block numbers are provided:  
