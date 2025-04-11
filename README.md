@@ -51,6 +51,7 @@ Therefore, each DMT-₿ITCOIN mint is:
 - **100% on-chain** (all dmt-bitcoin mints are embedded in Bitcoin transactions) 
 
 **Rendering with Block Input**  
+
 ➠ Generic image when only block numbers are provided:  
 
 - Display: `blank`
@@ -63,6 +64,7 @@ Therefore, each DMT-₿ITCOIN mint is:
 ![dmt-bitcoin](pngs/block_input.png)  
 
 **Rendering with Mint Input**  
+
 ➠ Unique image when mint inscription id's are provided:  
 
 - Display: `<dmt-bitcoin_set-#>`
