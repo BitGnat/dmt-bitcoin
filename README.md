@@ -21,22 +21,22 @@
 The DMT-₿ITCOIN [dashboard](https://dune.com/bitgnat/dmt-bitcoin) is updated daily at 12:00 UTC and provides the following stats:  
 
 📙 **Spectrum**:  
-- rarity classifications for the twelve (12) DMT-₿ITCOIN sets
+➤ rarity classifications for the twelve (12) DMT-₿ITCOIN sets
   
 📙 **Supply**:  
-- dynamic supply of each DMT-₿ITCOIN, which may or may not generate based on mined ₿itcoin block data
+dynamic supply of each DMT-₿ITCOIN, which may or may not generate based on mined ₿itcoin block data
   
 📙 **Collection**:  
-- expansionary total supply of the collection of DMT-₿ITCOIN sets
+expansionary total supply of the collection of DMT-₿ITCOIN sets
   
 📙 **Rarity**:  
-- DMT-₿ITCOIN rarity as a percent of the collection total supply
+DMT-₿ITCOIN rarity as a percent of the collection total supply
   
 📙 **Expansion**:  
-- percentage of blocks that generate a DMT-₿ITCOIN
+percentage of blocks that generate a DMT-₿ITCOIN
   
 📙 **Growth Rate**:  
-- overall rate of production for the DMT-₿ITCOIN collection
+overall rate of production for the DMT-₿ITCOIN collection
 
 ![dmt-bitcoin-111](gifs/expansion.gif)  
 
