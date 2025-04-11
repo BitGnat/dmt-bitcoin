@@ -40,6 +40,36 @@ The DMT-₿ITCOIN [dashboard](https://dune.com/bitgnat/dmt-bitcoin) is updated d
 
 ![dmt-bitcoin-111](gifs/expansion.gif)  
 
+## dmt-mints
+
+There are twelve (12) sets of DMT-₿ITCOIN available to mint on [mscribe.io/nats](https://mscribe.io/nats?t=latest).  
+
+[Blockpad links](https://mscribe.io/nats?t=latest) and the (maximum number of mints per wallet):  
+
+🟧 [dmt-bitcoin-0](https://mscribe.io/nats/dmt-bitcoin-0) (500)  
+
+🟧 [dmt-bitcoin-00](https://mscribe.io/nats/dmt-bitcoin-00) (50)  
+
+🟧 [dmt-bitcoin-01](https://mscribe.io/nats/dmt-bitcoin-01) (50)  
+
+🟧 [dmt-bitcoin-1](https://mscribe.io/nats/dmt-bitcoin-1) (500)  
+
+🟧 [dmt-bitcoin-10](https://mscribe.io/nats/dmt-bitcoin-10) (25)  
+
+🟧 [dmt-bitcoin-11](https://mscribe.io/nats/dmt-bitcoin-11) (25)  
+
+🟧 [dmt-bitcoin-010](https://mscribe.io/nats/dmt-bitcoin-010) (4)  
+
+🟧 [dmt-bitcoin-011](https://mscribe.io/nats/dmt-bitcoin-011) (4)  
+
+🟧 [dmt-bitcoin-100](https://mscribe.io/nats/dmt-bitcoin-100) (4)  
+
+🟧 [dmt-bitcoin-101](https://mscribe.io/nats/dmt-bitcoin-101) (2)  
+
+🟧 [dmt-bitcoin-110](https://mscribe.io/nats/dmt-bitcoin-110) (2)  
+
+🟧 [dmt-bitcoin-111](https://mscribe.io/nats/dmt-bitcoin-111) (2)  
+
 ## on-chain art
 
 All DMT-₿ITCOIN sets are rendered with one ordinal inscription script:    
@@ -75,36 +105,6 @@ Therefore, each DMT-₿ITCOIN mint is:
 - Bits Hexadecimal: `0x<blockNumber_bitsHex>`
 
 ![dmt-bitcoin](pngs/mint_input.png)  
-
-## dmt-mints
-
-There are twelve (12) sets of DMT-₿ITCOIN available to mint on [mscribe.io/nats](https://mscribe.io/nats?t=latest).  
-
-[Blockpad links](https://mscribe.io/nats?t=latest) and the (maximum number of mints per wallet):  
-
-🟧 [dmt-bitcoin-0](https://mscribe.io/nats/dmt-bitcoin-0) (500)  
-
-🟧 [dmt-bitcoin-00](https://mscribe.io/nats/dmt-bitcoin-00) (50)  
-
-🟧 [dmt-bitcoin-01](https://mscribe.io/nats/dmt-bitcoin-01) (50)  
-
-🟧 [dmt-bitcoin-1](https://mscribe.io/nats/dmt-bitcoin-1) (500)  
-
-🟧 [dmt-bitcoin-10](https://mscribe.io/nats/dmt-bitcoin-10) (25)  
-
-🟧 [dmt-bitcoin-11](https://mscribe.io/nats/dmt-bitcoin-11) (25)  
-
-🟧 [dmt-bitcoin-010](https://mscribe.io/nats/dmt-bitcoin-010) (4)  
-
-🟧 [dmt-bitcoin-011](https://mscribe.io/nats/dmt-bitcoin-011) (4)  
-
-🟧 [dmt-bitcoin-100](https://mscribe.io/nats/dmt-bitcoin-100) (4)  
-
-🟧 [dmt-bitcoin-101](https://mscribe.io/nats/dmt-bitcoin-101) (2)  
-
-🟧 [dmt-bitcoin-110](https://mscribe.io/nats/dmt-bitcoin-110) (2)  
-
-🟧 [dmt-bitcoin-111](https://mscribe.io/nats/dmt-bitcoin-111) (2)  
 
 ## dmt-bitcoin art  
 
