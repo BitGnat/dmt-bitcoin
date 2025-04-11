@@ -42,7 +42,7 @@ The DMT-₿ITCOIN [dashboard](https://dune.com/bitgnat/dmt-bitcoin) is updated d
 
 ## on-chain art
 
-All DMT-₿ITCOIN sets are rendered with one on-chain script:    
+All DMT-₿ITCOIN sets are rendered with one ordinal inscription script:    
 
 ⦿ [inscription/1561a28f052b0c854d38560f92b98e1d78bfa91bf6bb553b7e8ba1a42dd9e0cfi0](https://ordinals.com/inscription/1561a28f052b0c854d38560f92b98e1d78bfa91bf6bb553b7e8ba1a42dd9e0cfi0)  
 
