@@ -50,7 +50,7 @@ Therefore, each DMT-₿ITCOIN mint is:
 - **100% code** (each image is dynamically generated) &  
 - **100% on-chain** (embedded in Bitcoin transactions) 
 
-**Rendering with Block Input** 
+**Rendering with Block Input**  
 ➠ Generic image when only block numbers are provided:  
 
 - Display: `blank`
