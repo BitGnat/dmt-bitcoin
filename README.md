@@ -75,6 +75,8 @@ There are twelve (12) sets of DMT-₿ITCOIN available to mint on [mscribe.io/nat
 - 📜 **Code** is licensed under the [MIT License](./LICENSE)
 - 🖼 **Images** are licensed under [CC BY-NC-ND 4.0](./LICENSE-images.md)
 
+- You can use these images as-is for non-commercial purposes with credit, but you cannot modify them or use them commercially.
+
 [![License: CC BY-NC-ND 4.0](https://img.shields.io/badge/Images%20License-CC%20BY--NC--ND%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-nd/4.0/)
 
 ## on-chain art
