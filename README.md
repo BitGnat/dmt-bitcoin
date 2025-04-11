@@ -49,7 +49,8 @@ All DMT-₿ITCOIN sets are rendered with one on-chain script:
 Therefore, each DMT-₿ITCOIN mint is 100% code and 100% embedded in Bitcoin transactions. 
 
 
-**Rendering with Block Input**: 
+**Rendering with Block Input** 
+➠ Generic image when only block numbers are provided:  
 
 - Display: `blank`
 - Ticker: `tick: dmt-mint-?`
@@ -60,7 +61,9 @@ Therefore, each DMT-₿ITCOIN mint is 100% code and 100% embedded in Bitcoin tra
 
 ![dmt-bitcoin](pngs/block_input.png)  
 
-**Rendering with Mint Input**: 
+**Rendering with Mint Input**  
+➠ Unique image when mint inscription id's are provided:  
+
 - Display: `<dmt-bitcoin_set-#>`
 - Ticker: `tick: dmt-bitcoin-<dmt-bitcoin_set-#>`
 - Element: `name.<dmt-bitcoin_set-#>.11.element`
