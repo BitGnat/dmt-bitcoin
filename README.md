@@ -55,6 +55,8 @@ There is one script that renders all dmt-bitcoins.
 - Block Number: `block: <blockNumber>`
 - Bits Hexadecimal: `0x<bitsHex>`
 
+![dmt-bitcoin](pngs/block_input.png)  
+
 **Rendering with Mint Input**: 
 - Display: `<dmt-bitcoin_set-#>`
 - Ticker: `tick: dmt-bitcoin-<dmt-bitcoin_set-#>`
@@ -62,6 +64,8 @@ There is one script that renders all dmt-bitcoins.
 - Mint: `mint: <mint_inscription_id>`
 - Block Number: `block: <blockNumber>`
 - Bits Hexadecimal: `0x<blockNumber_bitsHex>`
+
+![dmt-bitcoin](pngs/mint_input.png)  
 
 ## dmt-mints
 
