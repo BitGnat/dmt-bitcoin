@@ -79,7 +79,7 @@ Therefore, each DMT-₿ITCOIN mint is:
 ## dmt-mints
 
 There are twelve (12) sets of DMT-₿ITCOIN available to mint on [mscribe.io/nats](https://mscribe.io/nats?t=latest) blockpads.  
-Available blocks are <span style="color: orange;">orange</span>
+Available blocks are <span style="color: orange;">orange</span> 
  
 
 🟧 [dmt-bitcoin-0](https://mscribe.io/nats/dmt-bitcoin-0)  
