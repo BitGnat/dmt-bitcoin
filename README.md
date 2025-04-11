@@ -1,4 +1,4 @@
-![dmt-bitcoin](pngs/header.png)
+![dmt-bitcoin](pngs/dmt-bitcoin-tm.png)
 
 
 ## basics
