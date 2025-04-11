@@ -11,7 +11,7 @@
 - Unique Non-Arbitrary Tokens (UNATs) forged from Digital Matter Theory [DMT](https://digital-matter-theory.gitbook.io/digital-matter-theory)  
 - based on bit patterns (0's & 1's) found in the bits hexadecimal of mined ₿itcoin blocks   
 - grouped into twelve (12) sets according to the bits hexadecimal pattern     
-- available to mint on [mscribe.io](https://mscribe.io/nats?t=latest)  
+- available to mint on [mscribe.io](https://mscribe.io/nats?t=latest) in twelve (12) blockpads  
 - trading incredibly fast on Trac Networks's HyperMall ... soon!  
 
 ## tokenomics
