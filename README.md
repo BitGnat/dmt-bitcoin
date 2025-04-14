@@ -76,15 +76,11 @@ There are twelve (12) sets of DMT-₿ITCOIN available to mint on [mscribe.io/nat
 ![built on: bitcoin](https://img.shields.io/badge/built%20on-Bitcoin-orange)
 ![status: inscribed](https://img.shields.io/badge/status-On--Chain-success)
 
-> **dmt-bitcoins** are on-chain inscriptions combining art, code, and Bitcoin-native permanence.
-
----
+> **dmt-bitcoins** are on-chain inscriptions combining art, code, and Bitcoin-native permanence.  
 
 ## Live Inscription
 
-View the live ordinal on [Ordinals Explorer](https://ordinals.com/inscription/1561a28f052b0c854d38560f92b98e1d78bfa91bf6bb553b7e8ba1a42dd9e0cfi0)
-
----
+View the live ordinal on [Ordinals Explorer](https://ordinals.com/inscription/1561a28f052b0c854d38560f92b98e1d78bfa91bf6bb553b7e8ba1a42dd9e0cfi0)  
 
 ## License
 
@@ -103,9 +99,7 @@ Derivative collections or recreations based on the source code or generative str
 - Modifications, derivative works, or extraction of HTML, JavaScript, or media assets.
 - Creation of derivative inscriptions or collections using this software as a base.
 
-See the full [LICENSE](./LICENSE) for details.
-
----
+See the full [LICENSE](./LICENSE) for details.  
 
 ## Images
 
@@ -124,23 +118,19 @@ You are free to:
 - **NonCommercial** — You may not use the material for commercial purposes.  
 - **NoDerivatives** — If you remix, transform, or build upon the material, you may not distribute the modified material.
 
-🔗 [View full license](https://creativecommons.org/licenses/by-nc-nd/4.0/)
-
----
+🔗 [View full license](https://creativecommons.org/licenses/by-nc-nd/4.0/)  
 
 ## Contact
 
 For licensing inquiries or collaborations, reach out via:
 
 - 📧 Email: [miners.founts_0c@icloud.com](mailto:miners.founts_0c@icloud.com)  
-- 𝕏: [@bitnat_sats](https://x.com/bitnat_sats)
-
----
+- 𝕏: [@bitnat_sats](https://x.com/bitnat_sats)  
 
 ## ©️ Copyright
 
 © 2025 **BitGnat**. All rights reserved.  
-Use of this software outside of the original on-chain context, and use of the images for any purpose outside of the terms of the image license, is strictly prohibited without written permission.
+Use of this software outside of the original on-chain context, and use of the images for any purpose outside of the terms of the image license, is strictly prohibited without written permission.  
 
 # on-chain art
 
