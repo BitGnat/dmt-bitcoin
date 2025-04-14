@@ -84,7 +84,7 @@ There are twelve (12) sets of DMT-₿ITCOIN available to mint on [mscribe.io/nat
 
 View the live ordinal on [Ordinals Explorer](https://ordinals.com/inscription/1561a28f052b0c854d38560f92b98e1d78bfa91bf6bb553b7e8ba1a42dd9e0cfi0)  
 
-This project is licensed under the **DMT-Bitcoin License**.
+This project is licensed under the **DMT-BITCOIN License**.
 
 The contents of this repository are permanently inscribed on the Bitcoin blockchain and intended **only for personal use** and **non-commercial display of the original tokens**.
 
