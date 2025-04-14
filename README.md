@@ -86,7 +86,7 @@ View the live ordinal on [Ordinals Explorer](https://ordinals.com/inscription/15
 
 > This repository contains a link to the original **dmt-bitcoin ordinal**, permanently inscribed on the Bitcoin blockchain. It serves as the **canonical on-chain software and generative template** for the entire collection of **dmt-bitcoins** (e.g., dmt-bitcoin-1, dmt-bitcoin-2, etc.).
 
-> The contents of this repository and the on-chain ordinal are intended **only for personal use** and **non-commercial display of the original tokens**.  
+> The contents of this repository and the on-chain ordinal are intended **only for personal use** and **non-commercial display of the dmt-bitcoin collections generated from the original tokens**.  
 Derivative collections or recreations based on the source code or generative structure are **strictly prohibited**.
 
 ✅ **Permitted**:
