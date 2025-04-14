@@ -1,21 +1,29 @@
-MIT License
+DMT-BITCOIN License
 
 Copyright (c) 2025 BitGnat
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights  
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell      
-copies of the Software, and to permit persons to whom the Software is         
-furnished to do so, subject to the following conditions:                       
+All rights reserved.
 
-The above copyright notice and this permission notice shall be included in all 
-copies or substantial portions of the Software.                                
+This software and its associated files (the “Software”) are permanently inscribed on the Bitcoin blockchain and are intended solely for personal use, non-commercial viewing, and interaction with the original on-chain inscription. Redistribution or replication of the Software outside of its original on-chain context is strictly prohibited.
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR    
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,      
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE   
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER        
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, 
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE 
-SOFTWARE.
+Permission is hereby granted, free of charge, to holders of the original on-chain token to:
+
+1. View and interact with the Software as inscribed on Bitcoin.
+2. Resell or list the original token on digital asset marketplaces, provided that no modifications are made to the Software and proper attribution is maintained.
+
+The following activities are expressly **prohibited** without prior written consent from the copyright holder:
+
+- Commercial use, including reproduction, resale, or monetization of the Software or any part thereof.
+- Modification, adaptation, translation, reverse engineering, or the creation of derivative works.
+- Copying, mirroring, or distributing the Software or any substantial portion outside the original blockchain inscription.
+
+This license does **not** grant any rights to:
+- Use the Software for software development purposes.
+- Extract, clone, or modify the HTML, JavaScript, or visual elements for reuse in any context.
+
+The Software is protected by copyright and other intellectual property laws. Any unauthorized use, reproduction, or distribution may result in civil and/or criminal penalties.
+
+THE SOFTWARE IS PROVIDED “AS IS”, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NONINFRINGEMENT. IN NO EVENT SHALL THE COPYRIGHT HOLDER BE LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER LIABILITY ARISING FROM THE USE OF THE SOFTWARE OR THE RESALE OF THE ASSOCIATED DIGITAL TOKEN.
+
+For licensing inquiries, please contact: [your email or preferred contact method]
+
