@@ -91,7 +91,7 @@ Derivative collections or recreations based on the source code or generative str
 
 ✅ **Permitted**:
 - Viewing and interacting with the inscription as stored on Bitcoin.
-- Resale or listing of the **original token** on digital asset marketplaces.
+- Resale or listing of the dmt-bitcoins generated from the **original token** on digital asset marketplaces.
 
 ❌ **Prohibited**:
 - Commercial use, copying, or reproduction of any portion of this code.
