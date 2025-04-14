@@ -127,7 +127,7 @@ For licensing inquiries or collaborations, reach out via:
 ## ©️ copyright
 
 © 2025 **BitGnat**. All rights reserved.  
-Use of this software outside of the original on-chain context is strictly prohibited without written permission.
+Use of this software outside of the original on-chain context, and use of the images for any purpose outside of the terms of the image license, is strictly prohibited without written permission.
 
 # on-chain art
 
