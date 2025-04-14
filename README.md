@@ -72,15 +72,51 @@ There are twelve (12) sets of DMT-₿ITCOIN available to mint on [mscribe.io/nat
 
 ## license  
 
-**Code** is licensed under the [MIT License](./LICENSE)  
+# dmt-bitcoin ordinals
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)  
+![License: Custom - DMT-Bitcoin](https://img.shields.io/badge/license-DMT--Bitcoin-blueviolet)
+![Built On: Bitcoin](https://img.shields.io/badge/built%20on-Bitcoin-orange)
+![Status: Inscribed](https://img.shields.io/badge/status-On--Chain-success)
 
-**Images** are licensed under [CC BY-NC-ND 4.0](./LICENSE-images.md)  
+> **dmt-bitcoin** are an on-chain inscriptions combining art, code, and Bitcoin-native permanence.
+
+# live inscription
+
+View the live ordinal on [Ordinals Explorer](https://ordinals.com/inscription/1561a28f052b0c854d38560f92b98e1d78bfa91bf6bb553b7e8ba1a42dd9e0cfi0)  
+
+This project is licensed under the **DMT-Bitcoin License**.
+
+The contents of this repository are permanently inscribed on the Bitcoin blockchain and intended **only for personal use** and **non-commercial display of the original tokens**.
+
+✅ Permitted:
+- Viewing and interacting with the inscription as stored on Bitcoin.
+- Resale or listing of the **original token** on digital asset marketplaces.
+
+❌ Prohibited:
+- Commercial use, copying, or reproduction of any portion of this code.
+- Modifications, derivative works, or extraction of HTML, JavaScript, or media assets.
+
+See the full [LICENSE](./LICENSE) for details.
+
+# Images
+
+Static images and scrolling gifs provided herein are licensed under [CC BY-NC-ND 4.0](./LICENSE-images.md)  
 
 [![License: CC BY-NC-ND 4.0](https://img.shields.io/badge/Images%20License-CC%20BY--NC--ND%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-nd/4.0/)  
 
 - You can use these images as-is for non-commercial purposes with credit, but you cannot modify them or use them commercially.
+
+# contact
+
+For licensing inquiries or collaborations, reach out via:
+
+- 📧 Email: [miners.founts_0c@icloud.com]
+- 𝕏: [@bitnat_sats]
+
+# ©️ copyright
+
+© 2025 **BitGnat**. All rights reserved.  
+Use of this software outside of the original on-chain context is strictly prohibited without written permission.
 
 ## on-chain art
 
