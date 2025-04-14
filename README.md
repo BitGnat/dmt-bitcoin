@@ -100,11 +100,22 @@ See the full [LICENSE](./LICENSE) for details.
 
 ## images
 
-Static images and scrolling gifs provided herein are licensed under [CC BY-NC-ND 4.0](./LICENSE-images.md)  
+[![Image License: CC BY-NC-ND 4.0](https://img.shields.io/badge/image%20license-CC%20BY--NC--ND%204.0-blueviolet)](https://creativecommons.org/licenses/by-nc-nd/4.0/)
 
-[![License: CC BY-NC-ND 4.0](license-DMT--Bitcoin-blueviolet)](https://creativecommons.org/licenses/by-nc-nd/4.0/)  
+The images in this repository are licensed under the **Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International (CC BY-NC-ND 4.0)** license.
 
-- You can use these images as-is for non-commercial purposes with credit, but you cannot modify them or use them commercially.
+You are free to:
+
+- **Share** — copy and redistribute the material in any medium or format
+
+**Under the following terms**:
+
+- **Attribution** — You must give appropriate credit, provide a link to the license, and indicate if changes were made.
+- **NonCommercial** — You may not use the material for commercial purposes.
+- **NoDerivatives** — If you remix, transform, or build upon the material, you may not distribute the modified material.
+
+🔗 [View full license](https://creativecommons.org/licenses/by-nc-nd/4.0/)
+
 
 ## contact
 
