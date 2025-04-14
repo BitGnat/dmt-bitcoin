@@ -98,7 +98,7 @@ The contents of this repository are permanently inscribed on the Bitcoin blockch
 
 See the full [LICENSE](./LICENSE) for details.
 
-## Images
+## images
 
 Static images and scrolling gifs provided herein are licensed under [CC BY-NC-ND 4.0](./LICENSE-images.md)  
 
