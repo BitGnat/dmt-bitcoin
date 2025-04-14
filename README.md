@@ -70,39 +70,49 @@ There are twelve (12) sets of DMT-₿ITCOIN available to mint on [mscribe.io/nat
 
 🟧 [dmt-bitcoin-111](https://mscribe.io/nats/dmt-bitcoin-111) (2)  
 
-# license  
+# dmt-bitcoin ordinals
 
-## dmt-bitcoin ordinals
-
-[![license: DMT-₿ITCOIN](https://img.shields.io/badge/license-dmt--bitcoin-yellow)](./LICENSE)
-![Built On: Bitcoin](https://img.shields.io/badge/built%20on-Bitcoin-orange)
-![Status: Inscribed](https://img.shields.io/badge/status-On--Chain-success)
+[![license: dmt-bitcoin](https://img.shields.io/badge/license-dmt--bitcoin-yellow)](./LICENSE)
+![built on: bitcoin](https://img.shields.io/badge/built%20on-Bitcoin-orange)
+![status: inscribed](https://img.shields.io/badge/status-On--Chain-success)
 
 > **dmt-bitcoins** are on-chain inscriptions combining art, code, and Bitcoin-native permanence.
 
-## live inscription
+---
 
-View the live ordinal on [Ordinals Explorer](https://ordinals.com/inscription/1561a28f052b0c854d38560f92b98e1d78bfa91bf6bb553b7e8ba1a42dd9e0cfi0)  
+## Live Inscription
 
-This repository contains the original **DMT-BITCOIN Ordinal**, which is permanently inscribed on the Bitcoin blockchain. It serves as the canonical on-chain software and generative template used to create all individual **dmt-bitcoins** (e.g., dmt-bitcoin-1, dmt-bitcoin-2, etc.) in the collection.
+View the live ordinal on [Ordinals Explorer](https://ordinals.com/inscription/1561a28f052b0c854d38560f92b98e1d78bfa91bf6bb553b7e8ba1a42dd9e0cfi0)
 
-The contents of this repository and the on-chain ordinal are intended **only for personal use** and **non-commercial display of the original tokens**. Derivative collections or recreations based on the source code or generative structure are strictly prohibited.
+---
 
-✅ Permitted:
+## License
+
+This repository contains the original **dmt-bitcoin ordinal**, permanently inscribed on the Bitcoin blockchain.  
+It serves as the **canonical on-chain software and generative template** for the entire collection of **dmt-bitcoins** (e.g., dmt-bitcoin-1, dmt-bitcoin-2, etc.).
+
+The contents of this repository and the on-chain ordinal are intended **only for personal use** and **non-commercial display of the original tokens**.  
+Derivative collections or recreations based on the source code or generative structure are **strictly prohibited**.
+
+✅ **Permitted**:
 - Viewing and interacting with the inscription as stored on Bitcoin.
 - Resale or listing of the **original token** on digital asset marketplaces.
 
-❌ Prohibited:
+❌ **Prohibited**:
 - Commercial use, copying, or reproduction of any portion of this code.
 - Modifications, derivative works, or extraction of HTML, JavaScript, or media assets.
+- Creation of derivative inscriptions or collections using this software as a base.
 
 See the full [LICENSE](./LICENSE) for details.
 
-## images
+---
+
+## Images
 
 [![Image License: CC BY-NC-ND 4.0](https://img.shields.io/badge/image%20license-CC%20BY--NC--ND%204.0-blueviolet)](https://creativecommons.org/licenses/by-nc-nd/4.0/)
 
-The images in this repository are licensed under the **Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International (CC BY-NC-ND 4.0)** license.
+The images in this repository are licensed under the  
+**Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International (CC BY-NC-ND 4.0)** license.
 
 You are free to:
 
@@ -110,21 +120,24 @@ You are free to:
 
 **Under the following terms**:
 
-- **Attribution** — You must give appropriate credit, provide a link to the license, and indicate if changes were made.
-- **NonCommercial** — You may not use the material for commercial purposes.
+- **Attribution** — You must give appropriate credit, provide a link to the license, and indicate if changes were made.  
+- **NonCommercial** — You may not use the material for commercial purposes.  
 - **NoDerivatives** — If you remix, transform, or build upon the material, you may not distribute the modified material.
 
 🔗 [View full license](https://creativecommons.org/licenses/by-nc-nd/4.0/)
 
+---
 
-## contact
+## Contact
 
 For licensing inquiries or collaborations, reach out via:
 
-- 📧 Email: [miners.founts_0c@icloud.com]
-- 𝕏: [@bitnat_sats]
+- 📧 Email: [miners.founts_0c@icloud.com](mailto:miners.founts_0c@icloud.com)  
+- 𝕏: [@bitnat_sats](https://x.com/bitnat_sats)
 
-## ©️ copyright
+---
+
+## ©️ Copyright
 
 © 2025 **BitGnat**. All rights reserved.  
 Use of this software outside of the original on-chain context, and use of the images for any purpose outside of the terms of the image license, is strictly prohibited without written permission.
