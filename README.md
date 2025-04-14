@@ -72,7 +72,7 @@ There are twelve (12) sets of DMT-₿ITCOIN available to mint on [mscribe.io/nat
 
 # LICENSE
 
-## DMT-Bitcoin ordinals
+### DMT-Bitcoin ordinals
 
 [![license: DMT-BITCOIN](https://img.shields.io/badge/license-DMT--BITCOIN-yellow)](./LICENSE)
 ![built on: bitcoin](https://img.shields.io/badge/built%20on-Bitcoin-orange)
@@ -80,7 +80,7 @@ There are twelve (12) sets of DMT-₿ITCOIN available to mint on [mscribe.io/nat
 
 **dmt-bitcoins** are on-chain inscriptions combining art, code, and Bitcoin-native permanence.  
 
-## Live Inscription
+### Live Inscription
 
 View the live ordinal on [Ordinals Explorer](https://ordinals.com/inscription/1561a28f052b0c854d38560f92b98e1d78bfa91bf6bb553b7e8ba1a42dd9e0cfi0)  
 
@@ -100,7 +100,7 @@ Derivative collections or recreations based on the source code or generative str
 
 See the full [LICENSE](./LICENSE) for details.  
 
-## Images
+### Images
 
 [![Image License: CC BY-NC-ND 4.0](https://img.shields.io/badge/image%20license-CC%20BY--NC--ND%204.0-blueviolet)](https://creativecommons.org/licenses/by-nc-nd/4.0/)
 
@@ -118,14 +118,14 @@ You are free to:
 
 🔗 [View full license](https://creativecommons.org/licenses/by-nc-nd/4.0/)  
 
-## Contact
+### Contact
 
 For licensing inquiries or collaborations, reach out via:
 
 - 📧 Email: [miners.founts_0c@icloud.com](mailto:miners.founts_0c@icloud.com)  
 - 𝕏 Social: [@bitnat_sats](https://x.com/bitnat_sats)  
 
-## ©️ Copyright
+### ©️ Copyright
 
 © 2025 **BitGnat**. All rights reserved.  
 Use of this software outside of the original on-chain context, and use of the images for any purpose outside of the terms of the image license, is strictly prohibited without written permission.  
