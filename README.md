@@ -123,14 +123,14 @@ You are free to:
 For licensing inquiries or collaborations, reach out via:
 
 - 📧 Email: [miners.founts_0c@icloud.com](mailto:miners.founts_0c@icloud.com)  
-- 𝕏: [@bitnat_sats](https://x.com/bitnat_sats)  
+- 𝕏 Social: [@bitnat_sats](https://x.com/bitnat_sats)  
 
 ## ©️ Copyright
 
 © 2025 **BitGnat**. All rights reserved.  
 Use of this software outside of the original on-chain context, and use of the images for any purpose outside of the terms of the image license, is strictly prohibited without written permission.  
 
-# on-chain art
+# ON-CHAIN ART
 
 All DMT-₿ITCOIN in each of the twelve sets are rendered with one ordinal inscription code script:    
 
@@ -166,9 +166,7 @@ Therefore, each DMT-₿ITCOIN mint is:
 
 ![dmt-bitcoin](pngs/mint_input.png)  
 
-# off-chain art  
-
-The following png and gif images are provided to showcase the twelve sets of the DMT-₿ITCOIN collection.  
+# OFF-CHAIN ART   
 
 collection static image:  
 
