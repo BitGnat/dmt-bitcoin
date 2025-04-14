@@ -84,7 +84,7 @@ There are twelve (12) sets of DMT-₿ITCOIN available to mint on [mscribe.io/nat
 
 View the live ordinal on [Ordinals Explorer](https://ordinals.com/inscription/1561a28f052b0c854d38560f92b98e1d78bfa91bf6bb553b7e8ba1a42dd9e0cfi0)  
 
-> This repository contains the original **dmt-bitcoin ordinal**, permanently inscribed on the Bitcoin blockchain. It serves as the **canonical on-chain software and generative template** for the entire collection of **dmt-bitcoins** (e.g., dmt-bitcoin-1, dmt-bitcoin-2, etc.).
+> This repository contains a link to the original **dmt-bitcoin ordinal**, permanently inscribed on the Bitcoin blockchain. It serves as the **canonical on-chain software and generative template** for the entire collection of **dmt-bitcoins** (e.g., dmt-bitcoin-1, dmt-bitcoin-2, etc.).
 
 > The contents of this repository and the on-chain ordinal are intended **only for personal use** and **non-commercial display of the original tokens**.  
 Derivative collections or recreations based on the source code or generative structure are **strictly prohibited**.
