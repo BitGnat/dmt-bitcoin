@@ -74,7 +74,7 @@ There are twelve (12) sets of DMT-₿ITCOIN available to mint on [mscribe.io/nat
 
 ## DMT-Bitcoin ordinals
 
-[![license: dmt-bitcoin](https://img.shields.io/badge/license-dmt--bitcoin-yellow)](./LICENSE)
+[![license: DMT-BITCOIN](https://img.shields.io/badge/license-dmt--bitcoin-yellow)](./LICENSE)
 ![built on: bitcoin](https://img.shields.io/badge/built%20on-Bitcoin-orange)
 ![status: inscribed](https://img.shields.io/badge/status-On--Chain-success)
 
