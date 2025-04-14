@@ -125,7 +125,7 @@ For licensing inquiries or collaborations, reach out via:
 - 📧 Email: [miners.founts_0c@icloud.com](mailto:miners.founts_0c@icloud.com)  
 - 𝕏 Social: [@bitnat_sats](https://x.com/bitnat_sats)  
 
-### ©️ Copyright
+### Copyright
 
 © 2025 **BitGnat**. All rights reserved.  
 Use of this software outside of the original on-chain context, and use of the images for any purpose outside of the terms of the image license, is strictly prohibited without written permission.  
