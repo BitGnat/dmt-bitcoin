@@ -2,28 +2,24 @@ DMT-BITCOIN License
 
 Copyright (c) 2025 BitGnat
 
-All rights reserved.
+This software is permanently inscribed on the Bitcoin blockchain and serves as the canonical generative source for the collection of digital assets known as **dmt-bitcoins** (e.g., dmt-bitcoin-1, dmt-bitcoin-2, etc.). It is provided exclusively for personal, non-commercial use and viewing of the original on-chain artifact.
 
-This software and its associated files (the “Software”) are permanently inscribed on the Bitcoin blockchain and are intended solely for personal use, non-commercial viewing, and interaction with the original on-chain inscription. Redistribution or replication of the Software outside of its original on-chain context is strictly prohibited.
+Permission is granted to owners of the original inscription and marketplaces to display, list, and resell the original token, but not to alter, replicate, or derive new works from the underlying code, design, or functionality.
 
-Permission is hereby granted, free of charge, to holders of the original on-chain token to:
+You are **not permitted** to:
 
-1. View and interact with the Software as inscribed on Bitcoin.
-2. Resell or list the original token on digital asset marketplaces, provided that no modifications are made to the Software and proper attribution is maintained.
+- Use this software or any part of it for commercial purposes.
+- Copy, reproduce, distribute, or re-host this software or inscription.
+- Modify, alter, or build derivative works from the HTML, JavaScript, or any associated files.
+- Create derivative tokens, collections, or digital assets that reproduce or build upon this inscription or its output.
 
-The following activities are expressly **prohibited** without prior written consent from the copyright holder:
+You are **permitted** to:
 
-- Commercial use, including reproduction, resale, or monetization of the Software or any part thereof.
-- Modification, adaptation, translation, reverse engineering, or the creation of derivative works.
-- Copying, mirroring, or distributing the Software or any substantial portion outside the original blockchain inscription.
+- View and interact with the original ordinal inscription as inscribed on the Bitcoin blockchain.
+- Resell or list the original token on digital asset marketplaces.
 
-This license does **not** grant any rights to:
-- Use the Software for software development purposes.
-- Extract, clone, or modify the HTML, JavaScript, or visual elements for reuse in any context.
+No warranties are provided. The software is offered "as-is" without any guarantee of fitness for a particular purpose. The author is not liable for any claim, damages, or other liability arising from use of the software or token.
 
-The Software is protected by copyright and other intellectual property laws. Any unauthorized use, reproduction, or distribution may result in civil and/or criminal penalties.
+All rights are reserved. Use of this software or any portion thereof outside of the original on-chain context without written permission is strictly prohibited.
 
-THE SOFTWARE IS PROVIDED “AS IS”, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NONINFRINGEMENT. IN NO EVENT SHALL THE COPYRIGHT HOLDER BE LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER LIABILITY ARISING FROM THE USE OF THE SOFTWARE OR THE RESALE OF THE ASSOCIATED DIGITAL TOKEN.
-
-For licensing inquiries, please contact: [your email or preferred contact method]
-
+For licensing inquiries, contact: miners.founts_0c@icloud.com
