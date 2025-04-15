@@ -78,7 +78,7 @@ There are twelve (12) sets of DMT-₿ITCOIN available to mint on [mscribe.io/nat
 ![built on: bitcoin](https://img.shields.io/badge/built%20on-Bitcoin-orange)
 ![status: inscribed](https://img.shields.io/badge/status-On--Chain-success)
 
-**DMT-bitcoins** are on-chain inscriptions combining art, code, and Bitcoin-native permanence.  
+**DMT-Bitcoin** is a collection of on-chain inscriptions combining art, code, and Bitcoin-native permanence.  
 
 ### Live Inscription
 
