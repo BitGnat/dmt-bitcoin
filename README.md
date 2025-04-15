@@ -91,11 +91,11 @@ View the live ordinal on [Ordinals Explorer](https://ordinals.com/inscription/15
 > Derivative collections or recreations based on the source code or generative structure are **strictly prohibited**.
 
 ✅ **Permitted**:
-- Viewing and interacting with the inscription as stored on Bitcoin.
-- Resale or listing of the dmt-bitcoins generated from the **original token** on digital asset marketplaces.
+- Viewing and interacting with the original token and minted dmt-bitcoin inscriptions as stored on Bitcoin.
+- Resale or listing of the dmt-bitcoins generated from the original token on digital asset marketplaces.
 
 ❌ **Prohibited**:
-- Commercial use, copying, or reproduction of any portion of this code.
+- Commercial use, copying, or reproduction of any portion of the live ordinal on-chain code.
 - Modifications, derivative works, or extraction of HTML, JavaScript, or media assets.
 - Creation of derivative inscriptions or collections using this software as a base.
 
