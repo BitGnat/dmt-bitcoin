@@ -2,9 +2,9 @@ DMT-BITCOIN License
 
 Copyright (c) 2025 BitGnat
 
-This software is permanently inscribed on the Bitcoin blockchain and serves as the canonical generative source for the collection of digital assets known as **dmt-bitcoins** (e.g., dmt-bitcoin-1, dmt-bitcoin-2, etc.). It is provided exclusively for personal, non-commercial use and viewing of the original on-chain artifact.
+This software is permanently inscribed on the Bitcoin blockchain and serves as the canonical generative source for the collection of digital assets known as **dmt-bitcoin** (e.g., dmt-bitcoin-0, dmt-bitcoin-1, etc.). It is provided exclusively for personal, non-commercial use and viewing of the original on-chain artifact.
 
-Permission is granted to owners of the original inscription and marketplaces to display, list, and resell the original token, but not to alter, replicate, or derive new works from the underlying code, design, or functionality.
+Permission is granted to owners of minted dmt-bitcoins and marketplaces to display, list, and resell the original tokens, but not to alter, replicate, or derive new works from the underlying code, design, or functionality.
 
 You are **not permitted** to:
 
@@ -15,8 +15,8 @@ You are **not permitted** to:
 
 You are **permitted** to:
 
-- View and interact with the original ordinal inscription as inscribed on the Bitcoin blockchain.
-- Resell or list the original token on digital asset marketplaces.
+- View and interact with the original ordinal inscription and minted dmt-bitcoins as inscribed on the Bitcoin blockchain.
+- Resell or list the dmt-bitcoins on digital asset marketplaces.
 
 No warranties are provided. The software is offered "as-is" without any guarantee of fitness for a particular purpose. The author is not liable for any claim, damages, or other liability arising from use of the software or token.
 
