@@ -134,7 +134,7 @@ Use of this software outside of the original on-chain context, and use of the im
 
 # ON-CHAIN ART
 
-All DMT-₿ITCOIN in each of the twelve sets are rendered with one ordinal inscription code script:    
+Each DMT-₿ITCOIN in the collection of twelve sets is rendered from one ordinal inscription code script:    
 
 ⦿ [inscription/1561a28f052b0c854d38560f92b98e1d78bfa91bf6bb553b7e8ba1a42dd9e0cfi0](https://ordinals.com/inscription/1561a28f052b0c854d38560f92b98e1d78bfa91bf6bb553b7e8ba1a42dd9e0cfi0)  
 
