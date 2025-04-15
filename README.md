@@ -44,7 +44,7 @@ The DMT-₿ITCOIN [dashboard](https://dune.com/bitgnat/dmt-bitcoin) is updated d
 
 There are twelve (12) sets of DMT-₿ITCOIN available to mint on [mscribe.io/nats](https://mscribe.io/nats?t=latest)  
 
-🟧 [Blockpad Mint Link](https://mscribe.io/nats?t=latest) 🟧 and the (maximum number of mints per wallet):  
+🟧 [Blockpad Mint Link](https://mscribe.io/nats?t=latest) 🟧 (maximum number of mints per wallet):  
 
 🟧 [dmt-bitcoin-0](https://mscribe.io/nats/dmt-bitcoin-0) 🟧 (500)  
 
