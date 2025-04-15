@@ -170,6 +170,10 @@ Therefore, each DMT-₿ITCOIN mint is:
 
 # OFF-CHAIN ART   
 
+collection scrolling gif:  
+
+![dmt-bitcoin](gifs/dmt-btc-b.gif)  
+
 collection static image:  
 
 ![dmt-bitcoin](pngs/collection.png)  
